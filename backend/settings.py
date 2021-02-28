@@ -15,6 +15,7 @@ from pathlib import Path
 # for heroku deployment
 import django_heroku
 import dj_database_url
+import os
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -27,7 +28,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = "^-q2d26w)l0^c3k=m^05gg0$0%bk&97xux5xfaq4iyc2vk_70-"
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ["*"]
 
@@ -81,11 +82,14 @@ WSGI_APPLICATION = "backend.wsgi.application"
 # Database
 # https://docs.djangoproject.com/en/3.1/ref/settings/#databases
 
-# heroku deployment - comment
-# local deployment - uncomment
-"""
-DATABASES = {
-    "default": {
+DATABASES = {}
+
+# check if .env file exists
+dotenv_file_exists = os.path.isfile(os.path.join(BASE_DIR, ".env"))
+
+# database depends on whether env in heroku or local
+DATABASES["default"] = (
+    {
         "ENGINE": "django.db.backends.postgresql",
         "NAME": "sentiment",
         "USER": "postgres",
@@ -93,12 +97,9 @@ DATABASES = {
         "HOST": "localhost",
         "PORT": "5432",
     }
-}
-"""
-# local deployment - comment
-# heroku deployment - uncomment
-DATABASES = {}
-DATABASES["default"] = dj_database_url.config(conn_max_age=600)
+    if dotenv_file_exists
+    else dj_database_url.config(conn_max_age=600)
+)
 
 # Password validation
 # https://docs.djangoproject.com/en/3.1/ref/settings/#auth-password-validators
