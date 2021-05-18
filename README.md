@@ -10,7 +10,7 @@ Web app that analyses the positivity of a news site. Made with a React frontend 
   - [Architecture](#architecture)
   - [Pages](#pages)
   - [Running the Analysis](#running-the-analysis)
-  - [Other](#other)
+  - [Mobile responsive](#mobile-responsive)
 - [Back-end](#back-end)
 
 # Front-end
@@ -30,13 +30,13 @@ The SPA is made up of 3 "pages":
 - Results - shows the results of the analysis
 - About - self-explanatory
 
-The same URL is being used across all 3; the state and DOM event interactions decide which page is actually shown. I did consider using [React Router](https://reactrouter.com/) in order to have the URL appropriate reflect the page. The downside was that I would've had to build rules for when someone directly accesses the Results page URL.
+The same URL is being used across all 3; the `page` state in `App.js` decides which page to show. I did consider using [React Router](https://reactrouter.com/) in order to have the URL appropriate reflect the page. The downside was that I would've had to build rules for when someone directly accesses the Results page URL.
 
 The `Footer` component is reused across the 3 pages in exactly the same shape. The header (`NavBar`) component is also reused, but with a twist: when the user goes to the Results or About pages, a smaller search bar will be sent to `NavBar` as a child component. This search bar is another instance of the same `SearchBar` component as the one on the Landing page.
 
 ## Running the Analysis
 
 
-## Other
+## Mobile responsive
 
 # Back-end
