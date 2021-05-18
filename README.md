@@ -43,4 +43,8 @@ You may notice that I do a ton of data manipulation in the components for the Re
 
 ## Mobile responsive
 
+Wouldn't have it any other way 📱🔥
+
+![mobile responsive](demo/mobile-responsive.gif)
+
 # Back-end
