@@ -12,6 +12,10 @@ Web app that analyses the positivity of a news site. Made with a React frontend 
   - [Running the Analysis](#running-the-analysis)
   - [Mobile responsive](#mobile-responsive)
 - [Back-end](#back-end)
+  - [Architecture](#architecture-1)
+  - [Views](#views)
+  - [Models](#models)
+  - [Scoring algorithm](#scoring-algorithm)
 
 # Front-end
 
@@ -48,3 +52,18 @@ Wouldn't have it any other way 📱🔥
 ![mobile responsive](demo/mobile-responsive.gif)
 
 # Back-end
+
+## Architecture
+
+The back-end is a Django RESTful API hosted on Heroku's free tier. It's completely separate from the front-end and the codebase sits in this repo. 
+
+## Views
+
+There's only 1 view in this Django project and it corresponds to the API endpoint that connects to the front-end. It receives the URL of the news site and returns the analysis data. I leveraged [Django REST framework](https://www.django-rest-framework.org/) to set up this view using the generic `APIView` class.
+
+## Models
+
+
+
+## Scoring algorithm
+
