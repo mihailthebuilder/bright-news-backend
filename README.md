@@ -35,7 +35,11 @@ The same URL is being used across all 3; the `page` state in `App.js` decides wh
 The `Footer` component is reused across the 3 pages in exactly the same shape. The header (`NavBar`) component is also reused, but with a twist: when the user goes to the Results or About pages, a smaller search bar will be sent to `NavBar` as a child component. This search bar is another instance of the same `SearchBar` component as the one on the Landing page.
 
 ## Running the Analysis
+After you input the site's URL and click the Analyse button, the `getUrlResults` function gets triggered. The function first sets the `loadingSearch` state to `true` in order to show a loading spinner on the button. It then calls the backend API using [axios](https://www.npmjs.com/package/axios) to retrieve the results. 2 things can happen afterwards:
+1. If the results are invalid, an error message is shown for 3 seconds via the `ErrorMessage` component.
+2. If the results are valid, you get shown the Results page with the data fetched from the API.
 
+You may notice that I do a ton of data manipulation in the components for the Results page - `ResultsDetails`, `ScoreGroup` and `ScoreDetails`. You might then wonder why I don't do it on the backend; Python would be amazing for that right? The reason - I wanted to reduce latency, as well as the computational burden since I'm on a free Heroku tier 😅
 
 ## Mobile responsive
 
