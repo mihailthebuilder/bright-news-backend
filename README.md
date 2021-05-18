@@ -1,7 +1,7 @@
 # Bright News
 Web app that analyses the positivity of a news site. Made with a React frontend and a Django backend. Link to live site: https://mihailthebuilder.github.io/bright-news-web-frontend/
 
-**Note**: The front-end sits on a different repo, see [this](#overall-architecture) for more. The scoring algorithm hasn't been designed (or tested) for sites that either aren't in English, or aren't focused on providing news content.
+**Note**: The front-end sits on a different repo, see [this](#architecture) for more. The scoring algorithm hasn't been designed (or tested) for sites that either aren't in English, or aren't focused on providing news content.
 
 # Table of contents
 - [Bright News](#bright-news)
