@@ -19,6 +19,7 @@ Web app that analyses the positivity of a news site. Made with a React frontend 
     - [Fetching the raw data](#fetching-the-raw-data)
     - [Data cleansing](#data-cleansing)
     - [Absolute scoring](#absolute-scoring)
+    - [Relative scoring](#relative-scoring)
 
 # Front-end
 
@@ -101,3 +102,10 @@ You'll notice I convert all scores to +/-1 and 0; using the actual magnitudes di
 
 Finally, I calculate the entire site's **absolute** score by dividing the number of (+1) text pieces by the number of non-0 text pieces. But we're not done yet :)
 
+### Relative scoring
+
+I retrieve all the absolute scores that are stored in the `WebsiteModel` and add the site-in-focus' score to the list. I then use [pandas](https://pandas.pydata.org/) to group them by the mean values for each URL.
+
+With [scikit learn](https://scikit-learn.org/), I scale all the scores so that they're between 0 and 1. 0 represents the least positive score in our `pandas` dataframe, while 1 represents the most positive score.
+
+This scaled dataset is what's sent back to the front-end for the wonderful results page. The end 🥳
