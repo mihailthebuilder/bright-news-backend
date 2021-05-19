@@ -20,6 +20,7 @@ Web app that analyses the positivity of a news site. Made with a React frontend 
     - [Data cleansing](#data-cleansing)
     - [Absolute scoring](#absolute-scoring)
     - [Relative scoring](#relative-scoring)
+- [License](#license)
 
 # Front-end
 
@@ -109,3 +110,7 @@ I retrieve all the absolute scores that are stored in the `WebsiteModel` and add
 With [scikit learn](https://scikit-learn.org/), I scale all the scores so that they're between 0 and 1. 0 represents the least positive score in our `pandas` dataframe, while 1 represents the most positive score.
 
 This scaled dataset is what's sent back to the front-end for the wonderful results page. The end 🥳
+
+# License
+
+Licensed under [Mozilla Public License 2.0](LICENSE).
