@@ -41,7 +41,7 @@ def process(site_text):
 
 
 def text_filter(text_input):
-    output = len(text_input.split()) >= 4
+    output = len(text_input.split()) >= 5
 
     reg_test = r"cookie|newsletter|copyright|trademark|mailing list|subscribe|sign up|rights reserved|this site"
     reg_result = re.search(reg_test, text_input, re.IGNORECASE)
