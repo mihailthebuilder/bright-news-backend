@@ -1,3 +1,5 @@
 venv
 .vscode
 .env
+conda-env
+.ipynb_checkpoints
