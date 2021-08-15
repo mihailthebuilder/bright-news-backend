@@ -30,7 +30,7 @@ def process(site_text):
     transformed_li = [text_transform(x) for x in soup_li]
 
     # filter irrelevant text pieces
-    filtered_li = [x for x in transformed_li if text_filter(x)]
+    filtered_li = [x for x in transformed_li if text_filter(x, transformed_li)]
 
     # remove duplicates
     unique_li = list(set(filtered_li))
@@ -40,16 +40,22 @@ def process(site_text):
     return processed_li
 
 
-def text_filter(text_input):
-    output = len(text_input.split()) >= 5
+def text_filter(text_input, text_li):
+    # only consider phrases that have at least 5 words
+    long_enough = len(text_input.split()) >= 5
 
+    # remove site generic text by looking at specific keywords they use
     reg_test = r"cookie|newsletter|copyright|trademark|mailing list|subscribe|sign up|rights reserved|this site"
-    reg_result = re.search(reg_test, text_input, re.IGNORECASE)
+    generic = re.search(reg_test, text_input, re.IGNORECASE)
 
-    output = output and not (reg_result)
+    # remove text that's included in another piece of text
+    copy = False
+    for text in text_li:
+        if text_input in text:
+            copy = True
+            break
 
-    return output
-
+    return long_enough and not (generic or copy)
 
 def text_transform(text_input):
     encoded_text = text_input.encode("ascii", "ignore")
