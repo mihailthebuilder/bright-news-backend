@@ -1,0 +1,954 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js ie ie6 lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]><html class="no-js ie ie7 lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]><html class="no-js ie ie8 lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+	
+    
+    
+
+    
+            <!-- Google Tag Manager -->
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-5FKQC3F');</script>
+        <!-- End Google Tag Manager -->
+    
+	<script>
+  (function(d) {
+    var config = {
+      kitId: 'yqp8xyb',
+      scriptTimeout: 3000,
+      async: false
+    },
+    h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+  })(document);
+</script>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Positive News | Good journalism about good things - Positive News</title>
+    <link rel="pingback" href="https://www.positive.news/wp/xmlrpc.php" />
+    
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer>//<![CDATA[
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+	var gtm4wp_use_sku_instead        = 0;
+	var gtm4wp_id_prefix              = '';
+	var gtm4wp_remarketing            = false;
+	var gtm4wp_eec                    = 1;
+	var gtm4wp_classicec              = false;
+	var gtm4wp_currency               = 'GBP';
+	var gtm4wp_product_per_impression = 0;
+	var gtm4wp_needs_shipping_address = false;
+	var gtm4wp_business_vertical      = 'retail';
+	var gtm4wp_business_vertical_id   = 'id';
+//]]>
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->
+	<!-- This site is optimized with the Yoast SEO plugin v16.8 - https://yoast.com/wordpress/plugins/seo/ -->
+	<meta name="description" content="Positive News is the first media organisation in the world that is dedicated to quality, independent reporting about what’s going right." />
+	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://www.positive.news/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Positive News | Good journalism about good things" />
+	<meta property="og:description" content="Positive News is the first media organisation in the world that is dedicated to quality, independent reporting about what’s going right." />
+	<meta property="og:url" content="https://www.positive.news/" />
+	<meta property="og:site_name" content="Positive News" />
+	<meta property="article:publisher" content="https://facebook.com/positivenewsuk/" />
+	<meta property="article:modified_time" content="2021-08-19T09:33:46+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@PositiveNewsUK" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.positive.news/#website","url":"https://www.positive.news/","name":"Positive News","description":"Good journalism about good things","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.positive.news/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://www.positive.news/#webpage","url":"https://www.positive.news/","name":"Positive News | Good journalism about good things","isPartOf":{"@id":"https://www.positive.news/#website"},"datePublished":"2018-05-17T10:56:01+00:00","dateModified":"2021-08-19T09:33:46+00:00","description":"Positive News is the first media organisation in the world that is dedicated to quality, independent reporting about what\u2019s going right.","breadcrumb":{"@id":"https://www.positive.news/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.positive.news/"]}]},{"@type":"BreadcrumbList","@id":"https://www.positive.news/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//s7.addthis.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Positive News &raquo; Feed" href="https://www.positive.news/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Positive News &raquo; Comments Feed" href="https://www.positive.news/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.positive.news\/wp\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.6.4"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://www.positive.news/wp/wp-includes/css/dist/block-library/style.min.css?ver=5.6.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-block-vendors-style-css'  href='https://www.positive.news/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/vendors-style.css?ver=5.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-block-style-css'  href='https://www.positive.news/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style.css?ver=5.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='https://www.positive.news/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=5.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='https://www.positive.news/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=5.5.2' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='https://www.positive.news/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=5.5.2' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='metorik-css-css'  href='https://www.positive.news/wp-content/plugins/metorik-helper/assets/css/metorik.css?ver=1.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='styles-css'  href='https://www.positive.news/wp-content/themes/elm/assets/css/min/main.min.css?ver=20210728-152316' type='text/css' media='all' />
+<link rel='stylesheet' id='google-font-css'  href='https://fonts.googleapis.com/css?family=Montserrat%3A300%2C400%2C400i%2C500%2C600&#038;ver=190821' type='text/css' media='all' />
+<link rel='stylesheet' id='icons-css'  href='https://www.positive.news/wp-content/themes/elm/assets/icons/icomoon/style.css?ver=190821' type='text/css' media='all' />
+<link rel='stylesheet' id='cookie-notice-front-css'  href='https://www.positive.news/wp-content/plugins/cookie-notice/includes/../css/front.min.css?ver=5.6.4' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.positive.news/wp/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.positive.news/wp/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://www.positive.news/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-woocommerce-enhanced.js?ver=1.13.1' id='gtm4wp-woocommerce-enhanced-js'></script>
+<script type='text/javascript' id='init-js-extra'>
+/* <![CDATA[ */
+var bloginfo = {"template_url":"https:\/\/www.positive.news\/wp-content\/themes\/elm","site_url":"https:\/\/www.positive.news","shop_page":"https:\/\/www.positive.news\/magazine\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.positive.news/wp-content/themes/elm/assets/js/min/scripts.min.js?ver=20210728-152316' id='init-js'></script>
+<script type='text/javascript' id='cookie-notice-front-js-extra'>
+/* <![CDATA[ */
+var cnArgs = {"ajaxUrl":"https:\/\/www.positive.news\/wp\/wp-admin\/admin-ajax.php","nonce":"4eea1b3805","hideEffect":"fade","position":"bottom","onScroll":"0","onScrollOffset":"100","onClick":"0","cookieName":"cookie_notice_accepted","cookieTime":"2592000","cookieTimeRejected":"2592000","cookiePath":"\/","cookieDomain":"","redirection":"0","cache":"0","refuse":"0","revokeCookies":"0","revokeCookiesOpt":"automatic","secure":"1"};
+/* ]]> */
+</script>
+<script async type='text/javascript' src='https://www.positive.news/wp-content/plugins/cookie-notice/includes/../js/front.min.js?ver=2.1.0' id='cookie-notice-front-js'></script>
+<link rel="https://api.w.org/" href="https://www.positive.news/wp-json/" /><link rel="alternate" type="application/json" href="https://www.positive.news/wp-json/wp/v2/pages/32835" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.positive.news/wp/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.positive.news/wp/wp-includes/wlwmanifest.xml" /> 
+<link rel='shortlink' href='https://www.positive.news/' />
+<link rel="alternate" type="application/json+oembed" href="https://www.positive.news/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.positive.news%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.positive.news/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.positive.news%2F&#038;format=xml" />
+<!-- Stream WordPress user activity plugin v3.7.0 -->
+
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer>//<![CDATA[
+	var dataLayer_content = {"pagePostType":"frontpage","pagePostType2":"single-page","cartContent":{"totals":{"applied_coupons":[],"discount_total":0,"subtotal":0,"total":0},"items":[]}};
+	dataLayer.push( dataLayer_content );//]]>
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com --><!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script><![endif]-->	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<link rel="icon" href="https://www.positive.news/wp-content/uploads/2018/08/cropped-P.N_Icon_Navy-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.positive.news/wp-content/uploads/2018/08/cropped-P.N_Icon_Navy-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.positive.news/wp-content/uploads/2018/08/cropped-P.N_Icon_Navy-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.positive.news/wp-content/uploads/2018/08/cropped-P.N_Icon_Navy-270x270.png" />
+
+</head>
+<body class="home page-template-default page page-id-32835 theme-elm woocommerce-no-js woocommerce cookies-not-set ">
+	<!-- Current page template:front-page.php -->
+	
+    
+    
+    
+            <!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5FKQC3F"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->
+    
+
+	<header class="primary__header">
+		<div class="container">
+			<a href="https://www.positive.news" class="header__logo">
+				<svg width="346px" height="47px" viewBox="0 0 346 47" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <polygon id="path-1" points="1.22077739 1.46087089 32.0845965 1.46087089 32.0845965 34.6870118 1.22077739 34.6870118"></polygon>
+        <polygon id="path-3" points="0 46.3710579 345.953769 46.3710579 345.953769 -3.55271368e-15 0 -3.55271368e-15"></polygon>
+    </defs>
+    <g id="Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home_v5.1" transform="translate(-178.000000, -64.000000)">
+            <g id="desktop_nav" transform="translate(0.000000, 40.000000)">
+                <g id="Page-1" transform="translate(178.000000, 24.000000)">
+                    <g id="Group-3" transform="translate(26.155779, 11.684046)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-2"></g>
+                        <path d="M16.7398729,1.46087089 C7.67253618,1.46087089 1.22077739,8.21571003 1.22077739,18.0741239 C1.22077739,27.9325378 7.49816432,34.6873769 16.565501,34.6873769 C25.284094,34.6873769 32.0845965,27.3848481 32.0845965,18.0741239 C32.0845965,8.39827325 25.6328377,1.46087089 16.7398729,1.46087089 M16.7398729,28.660965 C11.1599734,28.660965 7.49816432,24.4638366 7.49816432,18.0741239 C7.49816432,11.6844112 11.1599734,7.48545715 16.7398729,7.48545715 C22.1454005,7.48545715 25.8072095,11.6844112 25.8072095,18.0741239 C25.9815814,24.2812734 22.1454005,28.660965 16.7398729,28.660965" id="Fill-1" fill="#09394F" mask="url(#mask-2)"></path>
+                    </g>
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <g id="Clip-5"></g>
+                    <polygon id="Fill-4" fill="#09394F" mask="url(#mask-4)" points="88.2321608 45.4582418 94.3351759 45.4582418 94.3351759 13.6922415 88.2321608 13.6922415"></polygon>
+                    <polygon id="Fill-6" fill="#09394F" mask="url(#mask-4)" points="119.619095 45.4582418 125.722111 45.4582418 125.722111 13.6922415 119.619095 13.6922415"></polygon>
+                    <polygon id="Fill-7" fill="#09394F" mask="url(#mask-4)" points="159.027484 13.6922415 147.693314 45.4582418 141.590298 45.4582418 130.430499 13.6922415 136.882258 13.6922415 144.728992 35.5998279 152.575726 13.6922415"></polygon>
+                    <path d="M174.197313,12.7794254 C165.304348,12.7794254 158.852589,19.899391 158.852589,29.5752417 C158.852589,39.0685291 165.304348,46.1884947 174.371685,46.1884947 C180.300328,46.1884947 185.008368,42.9023567 187.623946,38.3382762 C188.495806,36.8777705 188.844549,35.4172647 188.844549,35.4172647 L182.567162,35.4172647 C180.997816,38.3382762 177.859122,40.3464716 174.546057,40.3464716 C171.581735,40.3464716 168.966157,38.8859659 167.222439,36.512644 C166.176208,35.2347015 165.827464,34.1393222 165.47872,32.1311267 L189.542037,32.1311267 L189.542037,31.4008739 L189.542037,29.3926784 C189.542037,19.899391 182.915906,12.7794254 174.197313,12.7794254 M174.197313,18.8040117 C177.161635,18.8040117 179.951584,20.2645174 181.695303,22.6378393 C182.567162,23.9157818 182.915906,25.0111612 183.090278,26.6542301 L165.47872,26.6542301 C165.827464,24.8285979 166.176208,23.7332186 166.873695,22.6378393 C168.443042,20.2645174 171.232991,18.8040117 174.197313,18.8040117" id="Fill-8" fill="#09394F" mask="url(#mask-4)"></path>
+                    <path d="M259.640396,12.7794254 C250.745687,12.7794254 244.293929,19.899391 244.293929,29.5752417 C244.293929,39.0685291 250.745687,46.1884947 259.814768,46.1884947 C265.743411,46.1884947 270.449708,42.9023567 273.065285,38.3382762 C273.937145,36.8777705 274.285888,35.4172647 274.285888,35.4172647 L268.010245,35.4172647 C266.439155,38.3382762 263.302205,40.3464716 259.987396,40.3464716 C257.024818,40.3464716 254.40924,38.8859659 252.665522,36.512644 C251.617547,35.2347015 251.268803,34.1393222 250.921803,32.1311267 L274.98512,32.1311267 L274.98512,31.4008739 L274.98512,29.3926784 C274.98512,19.899391 268.358989,12.7794254 259.640396,12.7794254 M259.640396,18.8040117 C262.602974,18.8040117 265.394667,20.2645174 267.138386,22.6378393 C268.010245,23.9157818 268.358989,25.0111612 268.533361,26.6542301 L250.921803,26.6542301 C251.268803,24.8285979 251.617547,23.7332186 252.316778,22.6378393 C253.884381,20.2645174 256.676074,18.8040117 259.640396,18.8040117" id="Fill-9" fill="#09394F" mask="url(#mask-4)"></path>
+                    <path d="M122.757615,-3.55271368e-15 C124.850077,-3.55271368e-15 126.768167,1.8256322 126.768167,4.19895406 C126.768167,6.3897127 124.850077,8.58047134 122.757615,8.58047134 C120.49078,8.58047134 118.747062,6.3897127 118.747062,4.38151728 C118.747062,2.19075864 120.49078,-3.55271368e-15 122.757615,-3.55271368e-15" id="Fill-10" fill="#09394F" mask="url(#mask-4)"></path>
+                    <path d="M195.994667,37.0599685 C198.085386,37.0599685 200.00522,38.8856008 200.00522,41.2589226 C200.00522,43.4496813 198.085386,45.6404399 195.994667,45.6404399 C193.726089,45.6404399 191.982371,43.4496813 191.982371,41.4414858 C191.809743,39.2507272 193.553461,37.0599685 195.994667,37.0599685" id="Fill-11" fill="#09394F" mask="url(#mask-4)"></path>
+                    <path d="M91.3706799,-3.55271368e-15 C93.4631422,-3.55271368e-15 95.3812327,1.8256322 95.3812327,4.19895406 C95.3812327,6.3897127 93.4631422,8.58047134 91.3706799,8.58047134 C89.1038457,8.58047134 87.3601271,6.3897127 87.3601271,4.38151728 C87.3601271,2.19075864 89.1038457,-3.55271368e-15 91.3706799,-3.55271368e-15" id="Fill-12" fill="#09394F" mask="url(#mask-4)"></path>
+                    <polygon id="Fill-13" fill="#09394F" mask="url(#mask-4)" points="308.811865 35.2343363 301.662619 13.6918764 295.733976 13.6918764 288.58473 35.2343363 281.437227 13.6918764 275.158096 13.6918764 286.319639 45.4597023 291.027679 45.4597023 298.698297 22.0897845 306.372403 45.4597023 311.080443 45.4597023 322.414614 13.6918764 315.962855 13.6918764"></polygon>
+                    <path d="M344.558096,30.8539144 C343.686237,29.3915831 341.942519,28.2980294 339.503056,27.5659509 L332.528182,25.5595811 C331.480207,25.192629 330.608348,24.8293282 330.261348,24.2798129 C329.736488,23.7339489 329.562117,23.003696 329.562117,22.2734431 C329.562117,21.1780638 329.912604,20.2652477 330.784463,19.5349948 C331.656323,18.8029163 332.876926,18.2570523 334.444529,18.2570523 C336.015619,18.2570523 337.236222,18.6221787 338.108081,19.3524316 C338.979941,20.0826845 339.326941,21.360627 339.503056,23.003696 L339.503056,23.3669968 L345.082956,23.3669968 L345.082956,22.4541807 L345.082956,21.9083167 C344.90684,19.7157324 344.034981,17.5267994 342.467378,15.7011672 C340.896287,13.875535 338.28071,12.7801557 334.620644,12.7801557 C331.133207,12.7801557 328.341514,13.6929718 326.425167,15.7011672 C324.505333,17.5267994 323.633473,19.9001212 323.633473,22.6385695 C323.633473,24.4642017 324.158333,26.2898339 325.030192,27.7503397 C326.074679,29.2108455 327.64577,30.3043992 329.912604,31.0364777 L335.14376,32.4951578 C337.060107,33.0428475 338.455081,33.5923627 339.152569,34.32079 C339.8518,34.8684797 340.024428,35.6005582 340.024428,36.5133743 L340.024428,37.0592383 C340.024428,37.2436271 339.8518,37.4261904 339.8518,37.606928 C339.675684,38.3390065 339.152569,38.8848705 338.28071,39.4325602 C337.583222,39.9820754 336.188247,40.3453763 334.620644,40.3453763 C333.223926,40.3453763 331.828951,39.9820754 330.784463,39.0692593 C329.736488,38.3390065 329.040745,37.2436271 328.864629,35.6005582 L328.864629,35.2336061 L323.286473,35.2336061 L323.286473,35.6005582 C323.286473,38.7041329 324.505333,41.0774548 326.425167,42.903087 C328.517629,44.7287192 331.305835,45.6415353 334.793272,45.6415353 C337.583222,45.6415353 340.1988,44.7287192 342.467378,43.0838246 C344.734212,41.4425812 345.954815,38.8848705 345.954815,35.6005582 C345.954815,34.1400524 345.606071,32.3144202 344.558096,30.8539144" id="Fill-14" fill="#09394F" mask="url(#mask-4)"></path>
+                    <path d="M82.8266332,30.8539144 C81.9547739,29.3915831 80.2110553,28.2980294 77.7698492,27.5659509 L70.7949749,25.5595811 C69.7487437,25.192629 68.8768844,24.8293282 68.5281407,24.2798129 C68.0050251,23.7339489 67.8306533,23.003696 67.8306533,22.2734431 C67.8306533,21.1780638 68.179397,20.2652477 69.0512563,19.5349948 C69.9231156,18.8029163 71.1437186,18.2570523 72.7130653,18.2570523 C74.2824121,18.2570523 75.5030151,18.6221787 76.3748744,19.3524316 C77.2467337,20.0826845 77.5954774,21.360627 77.7698492,23.003696 L77.7698492,23.3669968 L83.3497487,23.3669968 L83.3497487,22.4541807 L83.3497487,21.9083167 C83.1753769,19.7157324 82.3035176,17.5267994 80.7341709,15.7011672 C79.1648241,13.875535 76.5492462,12.7801557 72.8874372,12.7801557 C69.4,12.7801557 66.6100503,13.6929718 64.6919598,15.7011672 C62.7738693,17.5267994 61.9020101,19.9001212 61.9020101,22.6385695 C61.9020101,24.4642017 62.4251256,26.2898339 63.2969849,27.7503397 C64.3432161,29.2108455 65.9125628,30.3043992 68.179397,31.0364777 L73.4105528,32.4951578 C75.3286432,33.0428475 76.7236181,33.5923627 77.4211055,34.32079 C78.118593,34.8684797 78.2929648,35.6005582 78.2929648,36.5133743 L78.2929648,37.0592383 C78.2929648,37.2436271 78.2929648,37.4261904 78.118593,37.606928 C77.9442211,38.3390065 77.4211055,38.8848705 76.5492462,39.4325602 C75.8517588,39.9820754 74.4567839,40.3453763 72.8874372,40.3453763 C71.4924623,40.3453763 70.0974874,39.9820754 69.0512563,39.0692593 C68.0050251,38.3390065 67.3075377,37.2436271 67.1331658,35.6005582 L67.1331658,35.2336061 L61.5532663,35.2336061 L61.5532663,35.6005582 C61.5532663,38.7041329 62.7738693,41.0774548 64.6919598,42.903087 C66.7844221,44.7287192 69.5743719,45.6415353 73.061809,45.6415353 C75.8517588,45.6415353 78.4673367,44.7287192 80.7341709,43.0838246 C83.001005,41.4425812 84.221608,38.8848705 84.221608,35.6005582 C84.221608,34.1400524 83.6984925,32.3144202 82.8266332,30.8539144" id="Fill-15" fill="#09394F" mask="url(#mask-4)"></path>
+                    <path d="M109.679725,19.3518839 L109.679725,36.877953 C109.679725,39.9815278 110.202841,40.3466542 114.039022,40.164091 L114.039022,45.6409876 C113.515906,45.8235508 111.946559,46.006114 111.249072,46.006114 C107.936007,46.006114 103.402338,44.7281715 103.402338,38.7035852 L103.402338,19.5344471 L99.3917854,19.5344471 L99.3917854,13.5098608 L103.402338,13.5098608 L103.402338,7.48527459 L109.505353,3.46888374 L109.505353,13.6924241 L113.86465,13.6924241 L113.86465,19.5344471 C114.039022,19.3518839 109.679725,19.3518839 109.679725,19.3518839" id="Fill-16" fill="#09394F" mask="url(#mask-4)"></path>
+                    <path d="M11.3341709,0.182745783 L0,0.182745783 L0,17.5262517 L6.27738693,21.5426425 L0,25.7415966 L0,45.4584244 L6.27738693,45.4584244 L6.27738693,27.3846656 L11.8572864,27.3846656 C16.3909548,27.3846656 19.7040201,26.4718495 22.1452261,24.2810908 C24.9351759,21.7252058 26.6788945,17.8913781 26.6788945,13.5098608 C26.8532663,4.92938951 21.2733668,0.182745783 11.3341709,0.182745783 M15.6934673,20.8123897 C14.4728643,21.3600793 13.0778894,21.5426425 10.9854271,21.5426425 L6.27738693,21.5426425 L6.27738693,6.02476883 L10.2879397,6.02476883 C12.5547739,6.02476883 14.1241206,6.20733205 15.6934673,6.75502171 C18.6577889,7.85040103 20.4015075,10.4062861 20.4015075,13.6924241 C20.4015075,17.1611253 18.6577889,19.7170103 15.6934673,20.8123897" id="Fill-17" fill="#09394F" mask="url(#mask-4)"></path>
+                    <polygon id="Fill-18" fill="#09394F" mask="url(#mask-4)" points="232.612758 33.5923627 210.467532 0.183293473 210.291416 0.00073025288 204.71326 0.00073025288 204.71326 45.2745832 210.816275 45.2745832 210.816275 11.8673396 232.959758 45.0938456 233.135873 45.2745832 238.715773 45.2745832 238.715773 0.00073025288 232.612758 0.00073025288"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>			</a>
+
+			<nav class="primary__nav">
+				<ul class="header__menu list--unstyled list--inline">
+            <li class="header__nav__item  menu-item menu-item-type-custom menu-item-object-custom menu-item-32863 menu-item-has-children">
+                            <div class="header__nav__dropdown">
+                    <a class="dropdown__toggle header__nav__link">Sections</a>
+                    <ul class="dropdown__content">
+                                                    <li class="dropdown__nav__item  menu-item menu-item-type-taxonomy menu-item-object-category menu-item-32864">
+                                <a href="https://www.positive.news/category/society/" class="dropdown__nav__link">Society</a>
+                            </li>
+                                                    <li class="dropdown__nav__item  menu-item menu-item-type-taxonomy menu-item-object-category menu-item-32865">
+                                <a href="https://www.positive.news/category/environment/" class="dropdown__nav__link">Environment</a>
+                            </li>
+                                                    <li class="dropdown__nav__item  menu-item menu-item-type-taxonomy menu-item-object-category menu-item-32867">
+                                <a href="https://www.positive.news/category/lifestyle/" class="dropdown__nav__link">Lifestyle</a>
+                            </li>
+                                                    <li class="dropdown__nav__item  menu-item menu-item-type-taxonomy menu-item-object-category menu-item-32870">
+                                <a href="https://www.positive.news/category/science/" class="dropdown__nav__link">Science</a>
+                            </li>
+                                                    <li class="dropdown__nav__item  menu-item menu-item-type-taxonomy menu-item-object-category menu-item-32866">
+                                <a href="https://www.positive.news/category/economics/" class="dropdown__nav__link">Economics</a>
+                            </li>
+                                                    <li class="dropdown__nav__item  menu-item menu-item-type-taxonomy menu-item-object-category menu-item-32869">
+                                <a href="https://www.positive.news/category/opinion/" class="dropdown__nav__link">Opinion</a>
+                            </li>
+                                                    <li class="dropdown__nav__item  menu-item menu-item-type-taxonomy menu-item-object-category menu-item-32871">
+                                <a href="https://www.positive.news/category/uk/" class="dropdown__nav__link">UK</a>
+                            </li>
+                                                    <li class="dropdown__nav__item  menu-item menu-item-type-taxonomy menu-item-object-category menu-item-32868">
+                                <a href="https://www.positive.news/category/world/" class="dropdown__nav__link">World</a>
+                            </li>
+                                                    <li class="dropdown__nav__item  menu-item menu-item-type-custom menu-item-object-custom menu-item-331008">
+                                <a href="https://www.positive.news/tag/brands-of-inspiration/" class="dropdown__nav__link">Brands of Inspiration</a>
+                            </li>
+                                                    <li class="dropdown__nav__item  menu-item menu-item-type-custom menu-item-object-custom menu-item-205662">
+                                <a href="http://positive.news/simple" class="dropdown__nav__link">Selected by Simple</a>
+                            </li>
+                                                    <li class="dropdown__nav__item  menu-item menu-item-type-post_type menu-item-object-page menu-item-35002">
+                                <a href="https://www.positive.news/articles/" class="dropdown__nav__link">All articles</a>
+                            </li>
+                                            </ul>
+                </div>
+                    </li>
+            <li class="header__nav__item  menu-item menu-item-type-post_type menu-item-object-page menu-item-294525">
+                            <a href="https://www.positive.news/support/" class="header__nav__link">Support Positive News</a>
+                    </li>
+            <li class="header__nav__item  menu-item menu-item-type-post_type menu-item-object-page menu-item-34003">
+                            <a href="https://www.positive.news/about/" class="header__nav__link">About</a>
+                    </li>
+            <li class="header__nav__item  menu-item menu-item-type-custom menu-item-object-custom menu-item-296976">
+                            <a href="/magazine/#shop" class="header__nav__link">Shop</a>
+                    </li>
+        <li>
+        <ul class="header__menu--mobile list--unstyled list--inline">
+            <li class="header__nav__item">
+                <a href="/brands-of-inspiration/" class="header__nav__link">Brands of inspiration</a>
+            </li>
+            <li class="header__nav__item">
+                <a href="/my-account/" class="header__nav__link">Log In</a>
+            </li>
+            <li class="header__nav__item header__search">
+                <a href="#" class="header__nav__link js--search">
+                    <span class="icon-search"></span>
+                </a>
+            </li>
+                            <li class="header__mobile__item">
+                    <a href="https://www.positive.news/magazine/" class="header__nav__item--highlight" >Positive News magazine</a>
+                </li>
+                    </ul>
+    </li>
+</ul>
+				<span class="menu__trigger icon-menu"></span>
+							</nav>
+
+		</div>
+		<div class="container--fw header__shade--1">
+			<div class="container">
+				<nav class="secondary__nav">
+
+    <!-- Scoial Media Links -->
+    <div class="social__icons">
+                    <a href="https://facebook.com/positivenewsuk/" class="social__icons--link" target="_blank" rel="nofollow">
+                <span class="icon-facebook"></span>
+            </a>
+        
+                    <a href="https://twitter.com/PositiveNewsUK" class="social__icons--link" target="_blank" rel="nofollow">
+                <span class="icon-twitter"></span>
+            </a>
+        
+                    <a href="https://www.linkedin.com/company/positivenews" class="social__icons--link" target="_blank" rel="nofollow">
+                <span class="icon-linkedin"></span>
+            </a>
+        
+                    <a href="https://www.instagram.com/positivenewsuk" class="social__icons--link" target="_blank" rel="nofollow">
+                <span class="icon-instagram"></span>
+            </a>
+            </div>
+
+    <!-- Secondary Nav -->
+    <ul class="header__menu list--unstyled list--inline">
+                    <li class="header__nav__item header__nav__item--highlight">
+                <a href="https://www.positive.news/magazine/" class="header__nav__link" >Positive News magazine</a>
+            </li>
+        
+        		            <li class="header__nav__item">
+                <a href="https://www.positive.news/my-account/" class="header__nav__link">
+                                            Log In
+                                    </a>
+            </li>
+        
+        <li class="header__nav__item">
+            <a href="#" class="header__nav__link js--search">
+                <span class="icon-search"></span>
+            </a>
+        </li>
+
+                            <li class="header__nav__item"><a href="https://www.positive.news/cart/" class="header__nav__link js--cart"><span class="icon-basket"><span class="cart--count card--count--empty"></span></span></a></li>
+            </ul>
+
+</nav>
+			</div>
+		</div>
+	</header>
+	<div id="wrapper">
+
+	
+    <div class="container">
+
+        <div class="main__article">
+
+        
+        <a href="https://www.positive.news/environment/what-can-i-do-about-climate-change-how-to-lower-your-carbon-footprint/" class="card__image__link col--7 col--12--bp3">
+                        <img src="https://www.positive.news/wp-content/uploads/2021/08/sandro-gonzalez-McTHPFNm6gk-unsplash-1320x880-c-center.jpg" class="card__image main__article--img img100" alt="Image for What can I do about climate change? 14 ways to take positive action" />
+        </a>
+
+        <div class="card__content col--5--last col--12--bp3">
+            <a href="https://www.positive.news/environment/what-can-i-do-about-climate-change-how-to-lower-your-carbon-footprint/" class="card__title h2">What can I do about climate change? 14 ways to take positive action</a>
+            <p>After the UN issued a ‘code red for humanity’ last week, many people are asking — what can I do about climate change? Quite a lot, actually </p>
+                            <a href="https://www.positive.news/category/environment/energy/" class="card__category">Energy</a>
+                            <a href="https://www.positive.news/category/environment/" class="card__category">Environment</a>
+                            <a href="https://www.positive.news/category/environment/food/" class="card__category">Food</a>
+                            <a href="https://www.positive.news/category/society/" class="card__category">Society</a>
+                            <a href="https://www.positive.news/category/lifestyle/wellbeing/" class="card__category">Wellbeing</a>
+                    </div>
+
+    
+</div>
+
+        <h2 class="section__title">Latest articles</h2>
+        <div class="latest__articles cols--3--2--2">
+
+            
+            
+<div class="column card ">
+            <a href="https://www.positive.news/society/the-cookbook-for-people-who-have-long-covid-2/" class="card__image__link">
+
+    
+                <img src="https://www.positive.news/wp-content/uploads/2021/08/baked-oats-e1629284544238-740x492-c-center.jpg" class="card__image main__article--img img100" alt="Image for The cookbook for people who have long Covid" />
+
+    </a>
+    
+    <div class="card__content">
+        
+        <a href="https://www.positive.news/society/the-cookbook-for-people-who-have-long-covid-2/" class="card__title h3">The cookbook for people who have long Covid</a>
+                    <span class="card__text">
+          The authors of a new, free cookbook hope it will improve taste for Covid patients
+        </span>
+                                        <a href="https://www.positive.news/category/environment/food/" class="card__category">Food</a>                            <a href="https://www.positive.news/category/lifestyle/health/" class="card__category">Health</a>                            <a href="https://www.positive.news/category/lifestyle/" class="card__category">Lifestyle</a>                            <a href="https://www.positive.news/category/economics/social-enterprise/" class="card__category">Social Enterprise</a>                            <a href="https://www.positive.news/category/society/" class="card__category">Society</a>                            <a href="https://www.positive.news/category/lifestyle/wellbeing/" class="card__category">Wellbeing</a>                    
+    </div>
+
+</div>
+
+            
+            
+<div class="column card ">
+            <a href="https://www.positive.news/society/wind-power-firm-nips-nimbyism-in-the-bud-with-tulip-shaped-turbines/" class="card__image__link">
+
+    
+                <img src="https://www.positive.news/wp-content/uploads/2021/08/Flower-Turbines-Team-Picture-scaled-740x492-c-center.jpg" class="card__image main__article--img img100" alt="Image for Wind power firm aims to nip nimbyism in the bud with tulip-shaped turbines" />
+
+    </a>
+    
+    <div class="card__content">
+        
+        <a href="https://www.positive.news/society/wind-power-firm-nips-nimbyism-in-the-bud-with-tulip-shaped-turbines/" class="card__title h3">Wind power firm aims to nip nimbyism in the bud with tulip-shaped turbines</a>
+                    <span class="card__text">
+          Want to improve your business&#039;s eco-credentials, and ward off nimby naysayers? Flower Turbines may be the ticket 
+        </span>
+                                        <a href="https://www.positive.news/category/environment/energy/" class="card__category">Energy</a>                            <a href="https://www.positive.news/category/environment/" class="card__category">Environment</a>                            <a href="https://www.positive.news/category/economics/good-business/" class="card__category">Good Business</a>                            <a href="https://www.positive.news/category/science/innovation/" class="card__category">Innovation</a>                            <a href="https://www.positive.news/category/society/" class="card__category">Society</a>                    
+    </div>
+
+</div>
+
+            
+            
+<div class="column card ">
+            <a href="https://www.positive.news/environment/meet-the-plastic-hunting-pirates-of-cornwall/" class="card__image__link">
+
+    
+                <img src="https://www.positive.news/wp-content/uploads/2021/08/3O0A2165photoshop-reedit-e1628853355782-740x492-c-center.jpg" class="card__image main__article--img img100" alt="Image for Meet the plastic-hunting ‘pirates’ of Cornwall" />
+
+    </a>
+    
+    <div class="card__content">
+        
+        <a href="https://www.positive.news/environment/meet-the-plastic-hunting-pirates-of-cornwall/" class="card__title h3">Meet the plastic-hunting ‘pirates’ of Cornwall</a>
+                    <span class="card__text">
+          The pirates’ bounty is melted down to make sea kayaks, which are then used to collect more rubbish   
+        </span>
+                                        <a href="https://www.positive.news/category/environment/conservation/" class="card__category">Conservation</a>                            <a href="https://www.positive.news/category/environment/" class="card__category">Environment</a>                            <a href="https://www.positive.news/category/society/positive-people/" class="card__category">Positive People</a>                            <a href="https://www.positive.news/category/society/" class="card__category">Society</a>                    
+    </div>
+
+</div>
+
+            
+            
+<div class="column card ">
+            <a href="https://www.positive.news/society/positive-news-stories-from-week-32-of-2021/" class="card__image__link">
+
+    
+                <img src="https://www.positive.news/wp-content/uploads/2021/08/jason-h-IKlpLl7HVo0-unsplash-e1628790516354-740x492-c-center.jpg" class="card__image main__article--img img100" alt="Image for What went right this week: Australia’s ‘healing journey’, plus more positive news" />
+
+    </a>
+    
+    <div class="card__content">
+        
+        <a href="https://www.positive.news/society/positive-news-stories-from-week-32-of-2021/" class="card__title h3">What went right this week: Australia’s ‘healing journey’, plus more positive news</a>
+                    <span class="card__text">
+          Australia pledged reparations for indigenous people, wildlife returned to Scottish rivers, plus coffee shops that help homeless people
+        </span>
+                                        <a href="https://www.positive.news/category/environment/conservation/" class="card__category">Conservation</a>                            <a href="https://www.positive.news/category/environment/" class="card__category">Environment</a>                            <a href="https://www.positive.news/category/lifestyle/health/" class="card__category">Health</a>                            <a href="https://www.positive.news/category/society/justice/" class="card__category">Justice</a>                            <a href="https://www.positive.news/category/society/" class="card__category">Society</a>                            <a href="https://www.positive.news/category/lifestyle/sport/" class="card__category">Sport</a>                            <a href="https://www.positive.news/category/lifestyle/wellbeing/" class="card__category">Wellbeing</a>                    
+    </div>
+
+</div>
+
+            
+            
+<div class="column card ">
+            <a href="https://www.positive.news/society/litter-picking-has-become-a-national-obsession-in-the-uk/" class="card__image__link">
+
+    
+                <img src="https://www.positive.news/wp-content/uploads/2021/08/Use-this-one-740x492-c-center.jpg" class="card__image main__article--img img100" alt="Image for Up for grabs: how litter-pickers are taking the rubbish crisis into their own hands" />
+
+    </a>
+    
+    <div class="card__content">
+        
+        <a href="https://www.positive.news/society/litter-picking-has-become-a-national-obsession-in-the-uk/" class="card__title h3">Up for grabs: how litter-pickers are taking the rubbish crisis into their own hands</a>
+                    <span class="card__text">
+          Two thirds of litter in the UK is produced by just 12 companies. A growing army of litter-pickers are taking action
+        </span>
+                                        <a href="https://www.positive.news/category/environment/conservation/" class="card__category">Conservation</a>                            <a href="https://www.positive.news/category/environment/" class="card__category">Environment</a>                            <a href="https://www.positive.news/category/society/" class="card__category">Society</a>                            <a href="https://www.positive.news/category/lifestyle/wellbeing/" class="card__category">Wellbeing</a>                    
+    </div>
+
+</div>
+
+            
+            
+<div class="column card ">
+            <a href="https://www.positive.news/environment/climate-crisis-english-moor-turned-into-giant-sponge-to-absorb-co2/" class="card__image__link">
+
+    
+                <img src="https://www.positive.news/wp-content/uploads/2021/08/Holcombe-Moor-near-Manchester-transformed-into-a-giant-e1628511855794-740x492-c-center.jpg" class="card__image main__article--img img100" alt="Image for Climate crisis: English moor transformed into ‘giant sponge’ to absorb CO2" />
+
+    </a>
+    
+    <div class="card__content">
+        
+        <a href="https://www.positive.news/environment/climate-crisis-english-moor-turned-into-giant-sponge-to-absorb-co2/" class="card__title h3">Climate crisis: English moor transformed into ‘giant sponge’ to absorb CO2</a>
+                    <span class="card__text">
+          The moon-like landscape will also boost biodiversity and suck up floodwater. Its launch couldn’t be more timely
+        </span>
+                                        <a href="https://www.positive.news/category/environment/conservation/" class="card__category">Conservation</a>                            <a href="https://www.positive.news/category/environment/" class="card__category">Environment</a>                            <a href="https://www.positive.news/category/science/innovation/" class="card__category">Innovation</a>                            <a href="https://www.positive.news/category/society/" class="card__category">Society</a>                    
+    </div>
+
+</div>
+
+    
+</div>
+
+    </div>
+
+    <div class="container">
+    	<!--  -->
+        
+    </div>
+
+
+<div class='cta cta--fw margin--flex'>
+    <div class="text__align--center">
+                    <span class="cta__title h1">That good news feeling, delivered to you</span>
+                <a href="https://www.positive.news/product/magazine-subscription/" class="btn btn--filled--border" target="_blank">Subscribe to Positive News magazine</a>
+    </div>
+</div>
+
+<div class="container">
+
+    </div>
+
+    <div class="container">
+
+        
+
+        <h3 class="section__title">Featured articles</h3>
+            <div class="featured__articles cols--3--3--1">
+
+            
+            
+<div class="column card ">
+            <a href="https://www.positive.news/society/a-short-history-of-people-power/" class="card__image__link">
+
+    
+                <img src="https://www.positive.news/wp-content/uploads/2021/08/hello-i-m-nik-vbFC9BCo95M-unsplash-e1628183649566-740x492-c-center.jpg" class="card__image main__article--img img100" alt="Image for ‘We shouldn’t lose sight of how powerful people can be when they come together’" />
+
+    </a>
+    
+    <div class="card__content">
+        
+        <a href="https://www.positive.news/society/a-short-history-of-people-power/" class="card__title h3">‘We shouldn’t lose sight of how powerful people can be when they come together’</a>
+                    <span class="card__text">
+          Big challenges like the climate crisis can leave people feeling hopeless. A new project reminds us about the power of collective action
+        </span>
+                                        <a href="https://www.positive.news/category/lifestyle/culture/" class="card__category">Culture</a>                            <a href="https://www.positive.news/category/society/" class="card__category">Society</a>                    
+    </div>
+
+</div>
+
+            
+            
+<div class="column card ">
+            <a href="https://www.positive.news/lifestyle/travel/green-travel-every-time-you-buy-a-train-ticket-this-company-will-plant-a-tree/" class="card__image__link">
+
+    
+                <img src="https://www.positive.news/wp-content/uploads/2021/08/jj-jordan-aW5TQteHyTw-unsplash-e1627902809324-740x492-c-center.jpg" class="card__image main__article--img img100" alt="Image for Every time you buy a train ticket, this company will plant a tree" />
+
+    </a>
+    
+    <div class="card__content">
+        
+        <a href="https://www.positive.news/lifestyle/travel/green-travel-every-time-you-buy-a-train-ticket-this-company-will-plant-a-tree/" class="card__title h3">Every time you buy a train ticket, this company will plant a tree</a>
+                    <span class="card__text">
+          Rail travel is one of the greenest ways to get around the UK. A train ticketing startup has launched to make it even greener
+        </span>
+                                        <a href="https://www.positive.news/category/environment/conservation/" class="card__category">Conservation</a>                            <a href="https://www.positive.news/category/environment/" class="card__category">Environment</a>                            <a href="https://www.positive.news/category/society/" class="card__category">Society</a>                            <a href="https://www.positive.news/category/lifestyle/travel/" class="card__category">Travel</a>                    
+    </div>
+
+</div>
+
+            
+            
+<div class="column card ">
+            <a href="https://www.positive.news/lifestyle/wellbeing/can-big-cities-protect-us-from-depression-researchers-think-so/" class="card__image__link">
+
+    
+                <img src="https://www.positive.news/wp-content/uploads/2021/08/dan-freeman-G4E6PcOt4Ps-unsplash-e1627994624891-740x492-c-center.jpg" class="card__image main__article--img img100" alt="Image for Can big cities protect us from depression? Researchers think so" />
+
+    </a>
+    
+    <div class="card__content">
+        
+        <a href="https://www.positive.news/lifestyle/wellbeing/can-big-cities-protect-us-from-depression-researchers-think-so/" class="card__title h3">Can big cities protect us from depression? Researchers think so</a>
+                    <span class="card__text">
+          They have a hard-earned reputation for being toilsome, transient places, but research suggests big cities can protect us from depression 
+        </span>
+                                        <a href="https://www.positive.news/category/lifestyle/body-mind/" class="card__category">Body &amp; Mind</a>                            <a href="https://www.positive.news/category/society/" class="card__category">Society</a>                            <a href="https://www.positive.news/category/lifestyle/wellbeing/" class="card__category">Wellbeing</a>                    
+    </div>
+
+</div>
+
+    
+</div>
+
+        <div class="rerelevant__magazine">
+            <div class="rerelevant col--8--last col--12--bp3">
+                <span class="h2">Editor's picks</span>
+
+                                                                                    
+<div class="column card ">
+            <a href="https://www.positive.news/society/the-highway-code-is-changing-benefitting-walkers-and-cyclists/" class="card__image__link">
+
+    
+                <img src="https://www.positive.news/wp-content/uploads/2021/07/volkan-olmez-BVGMRRFQcf8-unsplash-740x492-c-center.jpg" class="card__image main__article--img img100" alt="Image for The rules of the road are changing in Great Britain, benefiting walkers and cyclists" />
+
+    </a>
+    
+    <div class="card__content">
+        
+        <a href="https://www.positive.news/society/the-highway-code-is-changing-benefitting-walkers-and-cyclists/" class="card__title h3">The rules of the road are changing in Great Britain, benefiting walkers and cyclists</a>
+                    <span class="card__text">
+          The Highway Code is being overhauled to sustain the increase in active travel seen during the pandemic
+        </span>
+                                        <a href="https://www.positive.news/category/society/" class="card__category">Society</a>                            <a href="https://www.positive.news/category/lifestyle/travel/" class="card__category">Travel</a>                            <a href="https://www.positive.news/category/lifestyle/wellbeing/" class="card__category">Wellbeing</a>                    
+    </div>
+
+</div>
+                                                                                                        
+<div class="column card ">
+            <a href="https://www.positive.news/society/new-rankin-portraits-celebrate-sex-and-intimacy-in-later-life/" class="card__image__link">
+
+    
+                <img src="https://www.positive.news/wp-content/uploads/2021/07/PR_FILES42_lynngeorge_port2-740x492-c-center.jpg" class="card__image main__article--img img100" alt="Image for ‘Age is just a number’: Rankin portraits celebrate sex in later life" />
+
+    </a>
+    
+    <div class="card__content">
+        
+        <a href="https://www.positive.news/society/new-rankin-portraits-celebrate-sex-and-intimacy-in-later-life/" class="card__title h3">‘Age is just a number’: Rankin portraits celebrate sex in later life</a>
+                    <span class="card__text">
+          Renowned photographer Rankin has teamed up with a relationships charity to shine a light on intimacy in later life
+        </span>
+                                        <a href="https://www.positive.news/category/lifestyle/arts/" class="card__category">Arts</a>                            <a href="https://www.positive.news/category/lifestyle/body-mind/" class="card__category">Body &amp; Mind</a>                            <a href="https://www.positive.news/category/lifestyle/health/" class="card__category">Health</a>                            <a href="https://www.positive.news/category/society/" class="card__category">Society</a>                            <a href="https://www.positive.news/category/lifestyle/wellbeing/" class="card__category">Wellbeing</a>                    
+    </div>
+
+</div>
+                                    
+            </div>
+
+            <div class="the-magazine col--4 col--12--bp3">
+                <span class="h2">The magazine</span>
+
+                
+                    <div class="current-issue">
+                        <a href="https://www.positive.news/product/magazine-subscription/">
+                            <img src="https://www.positive.news/wp-content/uploads/2021/07/PN106_cover-1-scaled-400x0-c-center.jpg" class="img100" alt="Latest issue image"/>
+                        </a>
+                        <div class="magazine-text">
+                            <span class="h4">Latest issue</span>
+                            <p><b> Jul-Sep 2021</b>
+<br>
+Up for grabs
+
+ 
+ 
+</p>
+                        </div>
+                        <a href="https://www.positive.news/product/magazine-subscription/" class="btn">Subscribe</a>
+                    </div>
+                
+                    <div class="current-issue">
+                        <a href="https://www.positive.news/shop/">
+                            <img src="https://www.positive.news/wp-content/uploads/2021/04/PN105_Cover_FINAL_NoBarcode-scaled-400x0-c-center.jpg" class="img100" alt="Back issues image"/>
+                        </a>
+                        <div class="magazine-text">
+                            <span class="h4">Back issues</span>
+                            <p>Catch up on what's been going right in the world
+
+</p>
+                        </div>
+                        <a href="https://www.positive.news/shop/" class="btn">View back issues</a>
+                    </div>
+                
+            </div>
+
+        </div>
+
+    </div>
+
+
+<!-- Closes Wrapper -->
+</div>
+
+<div class="footer">
+    <div class="container">
+        <div class="footer__left">
+            <ul>
+    <li class=" menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33484">
+        <a href="https://www.positive.news/category/society/">Society</a>
+    </li>
+    <li class=" menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33485">
+        <a href="https://www.positive.news/category/environment/">Environment</a>
+    </li>
+    <li class=" menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33487">
+        <a href="https://www.positive.news/category/lifestyle/">Lifestyle</a>
+    </li>
+    <li class=" menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33489">
+        <a href="https://www.positive.news/category/science/">Science</a>
+    </li>
+    <li class=" menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33486">
+        <a href="https://www.positive.news/category/economics/">Economics</a>
+    </li>
+    <li class=" menu-item menu-item-type-taxonomy menu-item-object-article-type menu-item-33488">
+        <a href="https://www.positive.news/article-type/opinion/">Opinion</a>
+    </li>
+</ul>
+            <ul>
+    <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-33493">
+        <a href="https://www.positive.news/about/">About Positive News</a>
+    </li>
+    <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-33492">
+        <a href="https://www.positive.news/contact-us/">Contact us</a>
+    </li>
+    <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-351610">
+        <a href="https://www.positive.news/faqs/">Customer FAQs</a>
+    </li>
+    <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-168219">
+        <a href="https://www.positive.news/privacy-policy/">Privacy Policy</a>
+    </li>
+    <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-168218">
+        <a href="https://www.positive.news/cookie-policy/">Cookie Policy</a>
+    </li>
+    <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-168220">
+        <a href="https://www.positive.news/terms-and-conditions/">Terms and conditions</a>
+    </li>
+    <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-258612">
+        <a href="https://www.positive.news/rules/">Rules of the society</a>
+    </li>
+</ul>
+            <ul>
+    <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-351611">
+        <a href="https://www.positive.news/brands-of-inspiration/">Brands of Inspiration</a>
+    </li>
+    <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-33498">
+        <a href="https://www.positive.news/support/">Become a supporter</a>
+    </li>
+    <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-32888">
+        <a href="https://www.positive.news/magazine/">Positive News magazine</a>
+    </li>
+    <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-32887">
+        <a href="https://www.positive.news/my-account/">My account</a>
+    </li>
+    <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-274987">
+        <a href="https://www.positive.news/stock-positive-news-magazine/">Stock magazine</a>
+    </li>
+    <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-366606">
+        <a href="https://www.positive.news/careers/">Careers</a>
+    </li>
+</ul>
+        </div>
+
+        <div class="footer__right">
+            <div class="social__icons">
+
+
+                                    <a class="social__icons--link" href="https://facebook.com/positivenewsuk/" target="_blank" rel="nofollow">
+                        <span class="icon-facebook"></span>
+                    </a>
+                
+                                    <a class="social__icons--link" href="https://twitter.com/PositiveNewsUK" target="_blank" rel="nofollow">
+                        <span class="icon-twitter"></span>
+                    </a>
+                
+                                    <a class="social__icons--link" href="https://www.linkedin.com/company/positivenews" target="_blank" rel="nofollow">
+                        <span class="icon-linkedin"></span>
+                    </a>
+                
+                                    <a class="social__icons--link" href="https://www.instagram.com/positivenewsuk" target="_blank" rel="nofollow">
+                        <span class="icon-instagram"></span>
+                    </a>
+                
+
+            </div>
+            <div class="newsletter__signup">
+                <div
+				class="hustle-ui hustle-inline hustle-palette--gray_slate hustle_module_id_3 module_id_3  "
+				
+			data-id="3"
+			data-render-id="0"
+			data-tracking="disabled"
+			
+				data-intro="no_animation"
+				data-sub-type="shortcode"
+				
+				style="opacity: 0;"
+			><div class="hustle-inline-content"><div class="hustle-optin hustle-optin--default"><div class="hustle-success" data-close-delay="false" style="display: none;"><span class="hustle-icon-check" aria-hidden="true"></span><div class="hustle-success-content"></div></div><div class="hustle-layout"><div class="hustle-layout-body"><div class="hustle-layout-content hustle-layout-position--left"><div class="hustle-content"><div class="hustle-content-wrap"><div class="hustle-group-title"><span class="hustle-title">Get our newsletter</span><span class="hustle-subtitle">Get Positive News stories in your inbox each week</span></div></div></div></div><form class="hustle-layout-form" novalidate="novalidate"><div class="hustle-form hustle-form-inline"><div class="hustle-form-fields hustle-proximity-joined"><div class="hustle-field hustle-field-required "><label for="hustle-field-email-module-3" id="hustle-field-email-module-3-label" class="hustle-screen-reader">Email address</label><input id="hustle-field-email-module-3" type="email" class="hustle-input " name="email" value="" aria-labelledby="hustle-field-email-module-3-label" data-validate="1" data-required-error="Your email is required." data-validation-error="Please enter a valid email." /><span class="hustle-input-label" aria-hidden="true"><span>johnsmith@example.com</span></span></div><button class="hustle-button hustle-button-submit btn--light" aria-live="polite" data-loading-text="Form is being submitted, please wait a bit."><span class="hustle-button-text">Subscribe</span><span class="hustle-icon-loader hustle-loading-icon" aria-hidden="true"></span></button></div><div class="hustle-form-options">
+
+	<input
+		type="hidden"
+		name="mailchimp_group_id"
+		class="mailchimp_group_id"
+		value="b3f86e01b8"
+	/>
+
+	
+		<span class="hustle-group-title">Email preferences</span>
+
+		
+			
+				<label
+					for="hustle-module-3-checkbox-option-2febc45fdd"
+					class="hustle-checkbox hustle-checkbox-inline"
+				>
+
+					<input
+						type="checkbox"
+						name="mailchimp_group_interest[]"
+						value="2febc45fdd"
+						id="hustle-module-3-checkbox-option-2febc45fdd"
+						 checked='checked'					/>
+
+					<span aria-hidden="true"></span>
+
+					<span>Weekly newsletter</span>
+
+				</label>
+
+			
+				<label
+					for="hustle-module-3-checkbox-option-9de1fa1708"
+					class="hustle-checkbox hustle-checkbox-inline"
+				>
+
+					<input
+						type="checkbox"
+						name="mailchimp_group_interest[]"
+						value="9de1fa1708"
+						id="hustle-module-3-checkbox-option-9de1fa1708"
+											/>
+
+					<span aria-hidden="true"></span>
+
+					<span>Offers, new products, promotions</span>
+
+				</label>
+
+			
+				<label
+					for="hustle-module-3-checkbox-option-5ae2646e2d"
+					class="hustle-checkbox hustle-checkbox-inline"
+				>
+
+					<input
+						type="checkbox"
+						name="mailchimp_group_interest[]"
+						value="5ae2646e2d"
+						id="hustle-module-3-checkbox-option-5ae2646e2d"
+											/>
+
+					<span aria-hidden="true"></span>
+
+					<span>Updates</span>
+
+				</label>
+
+			
+		
+	
+</div>
+</div><input type="hidden" name="hustle_module_id" value="3"><input type="hidden" name="post_id" value="32835"><input type="hidden" name="hustle_sub_type" value="shortcode"><label for="hustle-gdpr-module-3-0" class="hustle-checkbox hustle-gdpr "><input type="checkbox" name="gdpr" id="hustle-gdpr-module-3-0" data-required-error="You need to tick the GDPR consent checkbox to sign-up"  /><span aria-hidden="true"></span><span>Yes, I'd like to receive the weekly newsletter by email in accordance with the <a href="/privacy-policy/" target="_blank">Privacy Policy</a></span></label><div class="hustle-error-message" style="display: none;" data-default-error="Something went wrong, please try again."></div></form></div></div></div></div></div>
+            </div>
+        </div>
+
+        <div class="site__legal">
+
+            <span class="pn__logo">
+                <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                	 viewBox="0 0 427.5 427.5" style="enable-background:new 0 0 427.5 427.5;" xml:space="preserve">
+                <path d="M337.7,116.9h27.2v189.6h-24.8l-0.5-0.8l-97-139.8v140.6h-27.2V116.9h24.7l0.5,0.8l97,139.8V116.9H337.7z M134.8,202.9
+                	c12.5-4.4,20.3-15.7,20.3-29.5c0-14-7.7-24.9-20.5-29.2c-6.8-2.3-13.6-3.3-23.6-3.3H93.8V206h20.1
+                	C123.5,205.9,129.3,205.1,134.8,202.9L134.8,202.9 M115.7,116.2c43.5,0,67.5,20.1,67.5,56.7c0,18.2-7.2,34.6-19.8,45
+                	c-11,8.7-25.4,12.8-45.4,12.8H93.7v75.4H65.8v-82.8l27.9-17.4L65.8,189v-72.8H115.7 M166.7,271.7c-9.8,0-17.8,8-17.8,17.8
+                	s8,17.8,17.8,17.8c9.8,0,17.8-8,17.8-17.8S176.5,271.7,166.7,271.7z M427.5,213.7c0,118.1-95.7,213.8-213.8,213.8S0,331.8,0,213.7
+                	S95.7,0,213.7,0S427.5,95.7,427.5,213.7z M411.6,213.7c0-109.3-88.6-197.9-197.9-197.9S15.9,104.4,15.9,213.7
+                	s88.6,197.9,197.9,197.9S411.6,323,411.6,213.7z"/>
+                </svg>
+
+            </span>
+            <div class="site__created">
+                <p>Website: <a href="https://www.atomicsmash.co.uk/" target="_blank" rel="nofollow">Atomic Smash</a></p>
+            </div>
+            <div class="site__copyright">
+                <span>Copyright &copy; Positive News. All rights reserved.</span>
+            </div>
+        </div>
+    </div>
+    <div class="body--overlay hidden"></div>
+    <div class="search__container">
+
+    <span id="btn-search-close" class="btn--search-close" aria-label="Close search form"> <span class="icon icon-close"></span> </span>
+    <div class="centralise">
+        <form action="https://www.positive.news" method="get" role="search" class="form__inline search__form">
+            <div class="search__info">Start typing and press enter to search</div>
+            <label for="s" class="screen-reader-text">Search for:</label>
+            <input class="search__input" name="s" id="s" type="search" placeholder="search" autocomplete="off" autocapitalize="off" spellcheck="false">
+            <input class="search__submit" type="submit" value="" />
+            <span class="icon-search"></span>
+        </form>
+    </div>
+
+</div>
+</div>
+
+<div
+				class="hustle-ui hustle-popup hustle-palette--gray_slate hustle_module_id_1 module_id_1  "
+				
+			data-id="1"
+			data-render-id="0"
+			data-tracking="enabled"
+			
+				data-intro="no_animation"
+				data-outro="no_animation"
+				data-overlay-close="1"
+				data-close-delay="false"
+				
+				style="opacity: 0;"
+			><div class="hustle-popup-mask hustle-optin-mask" aria-hidden="true"></div><div class="hustle-popup-content"><div class="hustle-optin hustle-optin--default"><button class="hustle-button-icon hustle-button-close">
+			<span class="hustle-icon-close" aria-hidden="true"></span>
+			<span class="hustle-screen-reader">Close this module</span>
+		</button><div class="hustle-success" data-close-delay="5000" style="display: none;"><span class="hustle-icon-check" aria-hidden="true"></span><div class="hustle-success-content"></div></div><div class="hustle-layout"><div class="hustle-layout-body"><div class="hustle-layout-content hustle-layout-position--left"><div class="hustle-content"><div class="hustle-content-wrap"><div class="hustle-group-title"><span class="hustle-title">Inbox inspiration</span><span class="hustle-subtitle">Sign up for a weekly dose of Positive News</span></div></div></div></div><form class="hustle-layout-form" novalidate="novalidate"><div class="hustle-form hustle-form-inline"><div class="hustle-form-fields hustle-proximity-separated"><div class="hustle-field "><label for="hustle-field-first_name-module-1" id="hustle-field-first_name-module-1-label" class="hustle-screen-reader">First name</label><input id="hustle-field-first_name-module-1" type="name" class="hustle-input " name="first_name" value="" aria-labelledby="hustle-field-first_name-module-1-label" data-validate="" /><span class="hustle-input-label" aria-hidden="true"><span>John</span></span></div><div class="hustle-field "><label for="hustle-field-last_name-module-1" id="hustle-field-last_name-module-1-label" class="hustle-screen-reader">Last name</label><input id="hustle-field-last_name-module-1" type="name" class="hustle-input " name="last_name" value="" aria-labelledby="hustle-field-last_name-module-1-label" data-validate="" /><span class="hustle-input-label" aria-hidden="true"><span>Smith</span></span></div><div class="hustle-field hustle-field-required "><label for="hustle-field-email-module-1" id="hustle-field-email-module-1-label" class="hustle-screen-reader">Email address</label><input id="hustle-field-email-module-1" type="email" class="hustle-input " name="email" value="" aria-labelledby="hustle-field-email-module-1-label" data-validate="1" data-required-error="Your email is required." data-validation-error="Please enter a valid email." /><span class="hustle-input-label" aria-hidden="true"><span>johnsmith@example.com</span></span></div><button class="hustle-button hustle-button-submit " aria-live="polite" data-loading-text="Form is being submitted, please wait a bit."><span class="hustle-button-text">Sign up</span><span class="hustle-icon-loader hustle-loading-icon" aria-hidden="true"></span></button></div></div><input type="hidden" name="hustle_module_id" value="1"><input type="hidden" name="post_id" value="32835"><label for="hustle-gdpr-module-1-0" class="hustle-checkbox hustle-gdpr "><input type="checkbox" name="gdpr" id="hustle-gdpr-module-1-0" data-required-error="You need to confirm your opt-in by ticking the box above"  /><span aria-hidden="true"></span><span>Yes, I'd like to receive the weekly newsletter by email in accordance with the <a href="/privacy-policy/" target="_blank">Privacy Policy</a></span></label><div class="hustle-error-message" style="display: none;" data-default-error="Please fill out all required fields."></div></form></div></div></div></div></div>	<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<link rel='stylesheet' id='hustle_icons-css'  href='https://www.positive.news/wp-content/plugins/wordpress-popup/assets/hustle-ui/css/hustle-icons.min.css?ver=4.3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='hustle_global-css'  href='https://www.positive.news/wp-content/plugins/wordpress-popup/assets/hustle-ui/css/hustle-global.min.css?ver=4.3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='hustle_optin-css'  href='https://www.positive.news/wp-content/plugins/wordpress-popup/assets/hustle-ui/css/hustle-optin.min.css?ver=4.3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='hustle_popup-css'  href='https://www.positive.news/wp-content/plugins/wordpress-popup/assets/hustle-ui/css/hustle-popup.min.css?ver=4.3.0' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.positive.news/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70' id='jquery-blockui-js'></script>
+<script type='text/javascript' id='wc-add-to-cart-js-extra'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/www.positive.news\/cart\/","is_cart":"","cart_redirect_after_add":"yes"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.positive.news/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=5.5.2' id='wc-add-to-cart-js'></script>
+<script type='text/javascript' src='https://www.positive.news/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4' id='js-cookie-js'></script>
+<script type='text/javascript' id='woocommerce-js-extra'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.positive.news/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=5.5.2' id='woocommerce-js'></script>
+<script type='text/javascript' id='wc-cart-fragments-js-extra'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_0d123c0a5d3b32fc108c8a9cc245c888","fragment_name":"wc_fragments_0d123c0a5d3b32fc108c8a9cc245c888","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.positive.news/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=5.5.2' id='wc-cart-fragments-js'></script>
+<script type='text/javascript' id='metorik-js-js-extra'>
+/* <![CDATA[ */
+var metorik_params = {"lifetime":"6","session":"30","ajaxurl":"https:\/\/www.positive.news\/wp\/wp-admin\/admin-ajax.php","cart_tracking":"1","cart_items":"0","cart_checkout_button":"1","add_cart_popup_placement":"bottom","send_cart_events":"added_to_cart removed_from_cart updated_cart_totals updated_shipping_method applied_coupon removed_coupon updated_checkout"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.positive.news/wp-content/plugins/metorik-helper/assets/js/metorik.min.js?ver=1.5.1' id='metorik-js-js'></script>
+<script type='text/javascript' src='https://www.positive.news/wp/wp-includes/js/jquery/ui/core.min.js?ver=1.12.1' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='https://www.positive.news/wp/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.12.1' id='jquery-ui-datepicker-js'></script>
+<script type='text/javascript' id='jquery-ui-datepicker-js-after'>
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
+<script type='text/javascript' src='https://www.positive.news/wp-content/plugins/wordpress-popup/assets/hustle-ui/js/hustle-ui.min.js?ver=4.3.0' id='hui_scripts-js'></script>
+<script type='text/javascript' src='https://www.positive.news/wp/wp-includes/js/underscore.min.js?ver=1.8.3' id='underscore-js'></script>
+<script type='text/javascript' id='hustle_front-js-extra'>
+/* <![CDATA[ */
+var Modules = [{"settings":{"auto_close_success_message":"0","triggers":{"trigger":"time","on_time_delay":"0","on_time_unit":"seconds","on_scroll":"scrolled","on_scroll_page_percent":"20","on_scroll_css_selector":"","enable_on_click_element":"1","on_click_element":"","enable_on_click_shortcode":"1","on_exit_intent_per_session":"1","on_exit_intent_delayed":"0","on_exit_intent_delayed_time":"5","on_exit_intent_delayed_unit":"seconds","on_adblock":"0","enable_on_adblock_delay":"0","on_adblock_delay":"5","on_adblock_delay_unit":"seconds","on_exit_intent":"1"},"animation_in":"no_animation","animation_out":"no_animation","after_close_trigger":["click_close_icon"],"after_close":"keep_show","expiration":"365","expiration_unit":"days","on_submit":"nothing","on_submit_delay":"5","on_submit_delay_unit":"seconds","close_cta":"0","close_cta_time":"0","close_cta_unit":"seconds","hide_after_cta":"keep_show","hide_after_subscription":"keep_show","is_schedule":"0","schedule":{"not_schedule_start":"1","start_date":"02\/12\/2021","start_hour":"12","start_minute":"00","start_meridiem_offset":"am","not_schedule_end":"1","end_date":"02\/18\/2021","end_hour":"11","end_minute":"59","end_meridiem_offset":"pm","active_days":"all","week_days":[],"is_active_all_day":"1","day_start_hour":"00","day_start_minute":"00","day_start_meridiem_offset":"am","day_end_hour":"11","day_end_minute":"59","day_end_meridiem_offset":"pm","time_to_use":"server","custom_timezone":"UTC"}},"module_id":"3","blog_id":"0","module_name":"Footer Newsletter","module_type":"embedded","active":"1","module_mode":"optin"},{"settings":{"auto_close_success_message":"0","triggers":{"trigger":"time","on_time_delay":"0","on_time_unit":"seconds","on_scroll":"scrolled","on_scroll_page_percent":"20","on_scroll_css_selector":"","enable_on_click_element":"1","on_click_element":"","enable_on_click_shortcode":"1","on_exit_intent_per_session":"1","on_exit_intent_delayed":"0","on_exit_intent_delayed_time":"5","on_exit_intent_delayed_unit":"seconds","on_adblock":"0","enable_on_adblock_delay":"0","on_adblock_delay":"5","on_adblock_delay_unit":"seconds","on_exit_intent":"1"},"animation_in":"no_animation","animation_out":"no_animation","after_close_trigger":["click_close_icon"],"after_close":"keep_show","expiration":"365","expiration_unit":"days","on_submit":"nothing","on_submit_delay":"5","on_submit_delay_unit":"seconds","close_cta":"0","close_cta_time":"0","close_cta_unit":"seconds","hide_after_cta":"keep_show","hide_after_subscription":"keep_show","is_schedule":"0","schedule":{"not_schedule_start":"1","start_date":"02\/23\/2021","start_hour":"12","start_minute":"00","start_meridiem_offset":"am","not_schedule_end":"1","end_date":"03\/01\/2021","end_hour":"11","end_minute":"59","end_meridiem_offset":"pm","active_days":"all","week_days":[],"is_active_all_day":"1","day_start_hour":"00","day_start_minute":"00","day_start_meridiem_offset":"am","day_end_hour":"11","day_end_minute":"59","day_end_meridiem_offset":"pm","time_to_use":"server","custom_timezone":"UTC"}},"module_id":"4","blog_id":"0","module_name":"My Account Sign-up","module_type":"embedded","active":"1","module_mode":"optin"},{"settings":{"auto_close_success_message":"0","triggers":{"trigger":"time","on_time_delay":"30","on_time_unit":"seconds","on_scroll":"scrolled","on_scroll_page_percent":"20","on_scroll_css_selector":"","enable_on_click_element":"1","on_click_element":"","enable_on_click_shortcode":"1","on_exit_intent_per_session":"1","on_exit_intent_delayed":"0","on_exit_intent_delayed_time":"5","on_exit_intent_delayed_unit":"seconds","on_adblock":"0","enable_on_adblock_delay":"0","on_adblock_delay":"5","on_adblock_delay_unit":"seconds","on_exit_intent":"1"},"animation_in":"no_animation","animation_out":"no_animation","after_close_trigger":["click_close_icon"],"after_close":"no_show_all","expiration":"30","expiration_unit":"days","on_submit":"nothing","on_submit_delay":"5","on_submit_delay_unit":"seconds","close_cta":"0","close_cta_time":"0","close_cta_unit":"seconds","hide_after_cta":"keep_show","hide_after_subscription":"no_show_all","is_schedule":"0","schedule":{"not_schedule_start":"1","start_date":"07\/21\/2020","start_hour":"12","start_minute":"00","start_meridiem_offset":"am","not_schedule_end":"1","end_date":"07\/27\/2020","end_hour":"11","end_minute":"59","end_meridiem_offset":"pm","active_days":"all","week_days":[],"is_active_all_day":"1","day_start_hour":"00","day_start_minute":"00","day_start_meridiem_offset":"am","day_end_hour":"11","day_end_minute":"59","day_end_meridiem_offset":"pm","time_to_use":"server","custom_timezone":"UTC"},"allow_scroll_page":"0","close_on_background_click":"1","auto_hide":"0","auto_hide_unit":"seconds","auto_hide_time":"5"},"module_id":"1","blog_id":"0","module_name":"Newsletter","module_type":"popup","active":"1","module_mode":"optin"}];
+var incOpt = {"is_admin":"","native_share_enpoints":{"facebook":"https:\/\/www.facebook.com\/sharer\/sharer.php?u=https%3A%2F%2Fwww.positive.news","twitter":"https:\/\/twitter.com\/intent\/tweet?url=https%3A%2F%2Fwww.positive.news&text=Home","pinterest":"https:\/\/www.pinterest.com\/pin\/create\/button\/?url=https%3A%2F%2Fwww.positive.news","reddit":"https:\/\/www.reddit.com\/submit?url=https%3A%2F%2Fwww.positive.news","linkedin":"https:\/\/www.linkedin.com\/shareArticle?mini=true&url=https%3A%2F%2Fwww.positive.news","vkontakte":"https:\/\/vk.com\/share.php?url=https%3A%2F%2Fwww.positive.news","whatsapp":"https:\/\/api.whatsapp.com\/send?text=https%3A%2F%2Fwww.positive.news","email":"mailto:?subject=Home&body=https%3A%2F%2Fwww.positive.news"},"ajaxurl":"https:\/\/www.positive.news\/wp\/wp-admin\/admin-ajax.php","page_id":"32835","page_slug":"","is_upfront":"","script_delay":"3000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.positive.news/wp-content/plugins/wordpress-popup/assets/js/front.min.js?ver=4.3.0' id='hustle_front-js'></script>
+<script type='text/javascript' src='https://www.positive.news/wp-content/plugins/woocommerce-subscriptions-gifting/js/wcs-gifting.js?ver=2.0.0' id='woocommerce_subscriptions_gifting-js'></script>
+<script type='text/javascript' src='https://s7.addthis.com/js/300/addthis_widget.js?ver=1.0#pubid=ra-5b7aed4e8c917faf' id='addthis-js'></script>
+<script type='text/javascript' src='https://www.positive.news/wp/wp-includes/js/wp-embed.min.js?ver=5.6.4' id='wp-embed-js'></script>
+
+		<!-- Cookie Notice plugin v2.1.0 by Hu-manity.co https://hu-manity.co/ -->
+		<div id="cookie-notice" role="banner" class="cookie-notice-hidden cookie-revoke-hidden cn-position-bottom" aria-label="Cookie Notice" style="background-color: rgba(0,0,0,1);"><div class="cookie-notice-container" style="color: #fff;"><span id="cn-notice-text" class="cn-text-container">We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.</span><span id="cn-notice-buttons" class="cn-buttons-container"><a href="#" id="cn-accept-cookie" data-cookie-set="accept" class="cn-set-cookie cn-button bootstrap" aria-label="Ok">Ok</a></span><a href="javascript:void(0);" id="cn-close-notice" data-cookie-set="accept" class="cn-close-icon" aria-label="Ok"></a></div>
+			
+		</div>
+		<!-- / Cookie Notice plugin --><style type="text/css" id="hustle-module-3-0-styles" class="hustle-module-styles hustle-module-styles-3">.hustle-ui.module_id_3 .hustle-layout .hustle-layout-body {padding: 0px 0px 0px 0px;border-width: 0px 0px 0px 0px;border-style: solid;border-radius: 0px 0px 0px 0px;} .hustle-ui.module_id_3 .hustle-layout .hustle-layout-content {padding: 0px 0px 0px 0px;border-width: 0px 0px 0px 0px;border-style: solid;}  .hustle-ui.module_id_3 .hustle-layout .hustle-content {margin: 0px 0px 0px 0px;padding: 0 20px 0 20px;border-width: 0px 0px 0px 0px;border-style: solid;}.hustle-ui.module_id_3 .hustle-layout .hustle-content .hustle-content-wrap {padding: 20px 0 20px 0;} .hustle-ui.module_id_3 .hustle-layout .hustle-title {display: block;margin: 0px 0px 0px 0px;padding: 0px 0px 0px 0px;border-width: 0px 0px 0px 0px;border-style: solid;border-radius: 0px 0px 0px 0px;font: 700 20px/27px Open Sans;font-style: normal;letter-spacing: 0px;text-transform: none;text-decoration: none;text-align: left;} .hustle-ui.module_id_3 .hustle-layout .hustle-subtitle {display: block;margin: 10px 0px 0px 0px;padding: 0px 0px 0px 0px;border-width: 0px 0px 0px 0px;border-style: solid;border-radius: 0px 0px 0px 0px;font: 700 14px/18px Open Sans;font-style: normal;letter-spacing: 0px;text-transform: none;text-decoration: none;text-align: left;} .hustle-ui.module_id_3 .hustle-layout .hustle-layout-form {margin: 0px 0px 0px 0px;padding: 20px 20px 20px 20px;border-width: 0px 0px 0px 0px;border-style: solid;border-radius: 0px 0px 0px 0px;}.hustle-ui.module_id_3 .hustle-form .hustle-form-fields {display: -webkit-box;display: -ms-flex;display: flex;-ms-flex-wrap: wrap;flex-wrap: wrap;-webkit-box-align: center;-ms-flex-align: center;align-items: center;margin-top: -0.5px;margin-bottom: -0.5px;}.hustle-ui.module_id_3 .hustle-form .hustle-form-fields .hustle-field {min-width: 100px;-webkit-box-flex: 1;-ms-flex: 1;flex: 1;margin-top: 0.5px;margin-right: 1px;margin-bottom: 0.5px;}.hustle-ui.module_id_3 .hustle-form .hustle-form-fields .hustle-button {width: auto;-webkit-box-flex: 0;-ms-flex: 0 0 auto;flex: 0 0 auto;margin-top: 0.5px;margin-bottom: 0.5px;} .hustle-ui.module_id_3 .hustle-field .hustle-input {margin: 0;padding: 9px 10px 9px 10px;border-width: 0px 0px 0px 0px;border-style: solid;border-radius: 0px 0px 0px 0px;font: normal 13px/18px Open Sans;font-style: normal;letter-spacing: 0px;text-transform: none;text-align: left;}.hustle-ui.module_id_3 .hustle-field .hustle-input + .hustle-input-label {padding: 9px 10px 9px 10px;border-width: 0px 0px 0px 0px;border-style: solid;border-color: transparent;font: normal 13px/18px Open Sans;font-style: normal;letter-spacing: 0px;text-transform: none;text-align: left;} .hustle-ui.module_id_3 .hustle-select2 + .select2 {box-shadow: 0px 0px 0px 0px rgba(0,0,0,0);-moz-box-shadow: 0px 0px 0px 0px rgba(0,0,0,0);-webkit-box-shadow: 0px 0px 0px 0px rgba(0,0,0,0);}.hustle-ui.module_id_3 .hustle-select2 + .select2 .select2-selection--single {margin: 0;padding: 0 10px 0 10px;border-width: 0px 0px 0px 0px;border-style: solid;border-radius: 0px 0px 0px 0px;background-color: #FFFFFF;}.hustle-ui.module_id_3 .hustle-select2 + .select2 .select2-selection--single .select2-selection__rendered {padding: 9px 0 9px 0;font: normal 13px/18px Open Sans;font-style: normal;}.hustle-ui.module_id_3 .hustle-select2 + .select2 + .hustle-input-label {font: normal 13px/18px Open Sans;font-style: normal;letter-spacing: 0px;text-transform: none;text-align: left;} .hustle-ui.module_id_3 .hustle-form .hustle-radio span[aria-hidden] {border-width: 0px 0px 0px 0px;border-style: solid;}.hustle-ui.module_id_3 .hustle-form .hustle-radio span:not([aria-hidden]) {font: normal 12px/20px Open Sans;font-style: normal;letter-spacing: 0px;text-transform: none;text-decoration: none;text-align: left;} .hustle-ui.module_id_3 .hustle-form .hustle-checkbox:not(.hustle-gdpr) span[aria-hidden] {border-width: 0px 0px 0px 0px;border-style: solid;border-radius: 0px 0px 0px 0px;}.hustle-ui.module_id_3 .hustle-form .hustle-checkbox:not(.hustle-gdpr) span:not([aria-hidden]) {font: normal 12px/20px Open Sans;font-style: normal;letter-spacing: 0px;text-transform: none;text-decoration: none;text-align: left;}@media screen and (min-width: 783px) {.hustle-ui:not(.hustle-size--small).module_id_3 .hustle-form .hustle-checkbox:not(.hustle-gdpr) span[aria-hidden] {border-width: 0px 0px 0px 0px;border-style: solid;border-radius: 0px 0px 0px 0px;}.hustle-ui:not(.hustle-size--small).module_id_3 .hustle-form .hustle-checkbox:not(.hustle-gdpr) span:not([aria-hidden]) {font: normal 12px/20px Open Sans;font-style: normal;letter-spacing: 0px;text-transform: none;text-decoration: none;text-align: left;}} .hustle-ui.module_id_3 .hustle-form button.hustle-button-submit {padding: 2px 16px 2px 16px;border-width: 0px 0px 0px 0px;border-style: solid;border-radius: 0px 0px 0px 0px;font: bold 13px/32px Open Sans;font-style: normal;letter-spacing: 0.5px;text-transform: none;text-decoration: none;} .hustle-ui.module_id_3 .hustle-form .hustle-form-options {margin: 10px 0px 0px 0px;padding: 20px 20px 20px 20px;border-width: 0px 0px 0px 0px;border-style: solid;border-radius: 0px 0px 0px 0px;}@media screen and (min-width: 783px) {.hustle-ui:not(.hustle-size--small).module_id_3 .hustle-form .hustle-form-options {margin: 10px 0px 0px 0px;padding: 20px 20px 20px 20px;border-width: 0px 0px 0px 0px;border-style: solid;border-radius: 0px 0px 0px 0px;box-shadow: 0px 0px 0px 0px rgba(0,0,0,0);-moz-box-shadow: 0px 0px 0px 0px rgba(0,0,0,0);-webkit-box-shadow: 0px 0px 0px 0px rgba(0,0,0,0);}} .hustle-ui.module_id_3 .hustle-form .hustle-form-options .hustle-group-title {display: block;margin: 0 0 20px;padding: 0;border: 0;font: bold 13px/22px Open Sans;font-style: normal;letter-spacing: 0px;text-transform: none;text-decoration: none;text-align: left;}@media screen and (min-width: 783px) {.hustle-ui:not(.hustle-size--small).module_id_3 .hustle-form .hustle-form-options .hustle-group-title {font: bold 13px/22px Open Sans;font-style: normal;letter-spacing: 0px;text-transform: none;text-decoration: none;text-align: left;}} .hustle-ui.module_id_3 .hustle-layout-form .hustle-checkbox.hustle-gdpr {margin: 10px 0px 0px 0px;}.hustle-ui.module_id_3 .hustle-layout-form .hustle-checkbox.hustle-gdpr span[aria-hidden] {border-width: 0px 0px 0px 0px;border-style: solid;border-radius: 0px 0px 0px 0px;}.hustle-ui.module_id_3 .hustle-layout-form .hustle-checkbox.hustle-gdpr span:not([aria-hidden]) {font: normal 12px/1.7em Open Sans;font-style: normal;letter-spacing: 0px;text-transform: none;text-decoration: none;text-align: left;}@media screen and (min-width: 783px) {.hustle-ui:not(.hustle-size--small).module_id_3 .hustle-layout-form .hustle-checkbox.hustle-gdpr {margin: 10px 0px 0px 0px;}.hustle-ui:not(.hustle-size--small).module_id_3 .hustle-layout-form .hustle-checkbox.hustle-gdpr span[aria-hidden] {border-width: 0px 0px 0px 0px;border-style: solid;border-radius: 0px 0px 0px 0px;}.hustle-ui:not(.hustle-size--small).module_id_3 .hustle-layout-form .hustle-checkbox.hustle-gdpr span:not([aria-hidden]) {font: normal 12px/1.7em Open Sans;font-style: normal;letter-spacing: 0px;text-transform: none;text-decoration: none;text-align: left;}} .hustle-ui.module_id_3 .hustle-layout .hustle-error-message {margin: 20px 0px 0px 0px;}.hustle-ui.module_id_3 .hustle-layout .hustle-error-message p {font: normal 12px/20px Open Sans;font-style: normal;letter-spacing: 0px;text-transform: none;text-decoration: none;text-align: left;}@media screen and (min-width: 783px) {.hustle-ui:not(.hustle-size--small).module_id_3 .hustle-layout .hustle-error-message {margin: 20px 0px 0px 0px;}.hustle-ui:not(.hustle-size--small).module_id_3 .hustle-layout .hustle-error-message p {font: normal 12px/20px Open Sans;font-style: normal;letter-spacing: 0px;text-transform: none;text-decoration: none;text-align: left;}} .hustle-ui.module_id_3 .hustle-success {padding: 40px 40px 40px 40px;border-width: 0px 0px 0px 0px;border-style: solid;border-radius: 0px 0px 0px 0px;}.hustle-ui.module_id_3 .hustle-success-content b,.hustle-ui.module_id_3 .hustle-success-content strong {font-weight: bold;}.hustle-ui.module_id_3 .hustle-success-content blockquote {margin-right: 0;margin-left: 0;}.hustle-ui.module_id_3 .hustle-success-content {font-size: 14px;line-height: 1.45em;font-family: Open Sans;}.hustle-ui.module_id_3 .hustle-success-content p:not([class*="forminator-"]) {margin: 0 0 10px;font: normal 14px/1.45em Open Sans;letter-spacing: 0px;text-transform: none;text-decoration: none;}.hustle-ui.module_id_3 .hustle-success-content p:not([class*="forminator-"]):last-child {margin-bottom: 0;}.hustle-ui.module_id_3 .hustle-success-content h1:not([class*="forminator-"]) {margin: 0 0 10px;font: 700 28px/1.4em Open Sans;letter-spacing: 0px;text-transform: none;text-decoration: none;}.hustle-ui.module_id_3 .hustle-success-content h1:not([class*="forminator-"]):last-child {margin-bottom: 0;}.hustle-ui.module_id_3 .hustle-success-content h2:not([class*="forminator-"]) {margin: 0 0 10px;font: 700 22px/1.4em Open Sans;letter-spacing: 0px;text-transform: none;text-decoration: none;}.hustle-ui.module_id_3 .hustle-success-content h2:not([class*="forminator-"]):last-child {margin-bottom: 0;}.hustle-ui.module_id_3 .hustle-success-content h3:not([class*="forminator-"]) {margin: 0 0 10px;font: 700 18px/1.4em Open Sans;letter-spacing: 0px;text-transform: none;text-decoration: none;}.hustle-ui.module_id_3 .hustle-success-content h3:not([class*="forminator-"]):last-child {margin-bottom: 0;}.hustle-ui.module_id_3 .hustle-success-content h4:not([class*="forminator-"]) {margin: 0 0 10px;font: 700 16px/1.4em Open Sans;letter-spacing: 0px;text-transform: none;text-decoration: none;}.hustle-ui.module_id_3 .hustle-success-content h4:not([class*="forminator-"]):last-child {margin-bottom: 0;}.hustle-ui.module_id_3 .hustle-success-content h5:not([class*="forminator-"]) {margin: 0 0 10px;font: 700 14px/1.4em Open Sans;letter-spacing: 0px;text-transform: none;text-decoration: none;}.hustle-ui.module_id_3 .hustle-success-content h5:not([class*="forminator-"]):last-child {margin-bottom: 0;}.hustle-ui.module_id_3 .hustle-success-content h6:not([class*="forminator-"]) {margin: 0 0 10px;font: 700 12px/1.4em Open Sans;letter-spacing: 0px;text-transform: uppercase;text-decoration: none;}.hustle-ui.module_id_3 .hustle-success-content h6:not([class*="forminator-"]):last-child {margin-bottom: 0;}.hustle-ui.module_id_3 .hustle-success-content ol:not([class*="forminator-"]),.hustle-ui.module_id_3 .hustle-success-content ul:not([class*="forminator-"]) {margin: 0 0 10px;}.hustle-ui.module_id_3 .hustle-success-content ol:not([class*="forminator-"]):last-child,.hustle-ui.module_id_3 .hustle-success-content ul:not([class*="forminator-"]):last-child {margin-bottom: 0;}.hustle-ui.module_id_3 .hustle-success-content li:not([class*="forminator-"]) {margin: 0 0 5px;font: normal 14px/1.45em Open Sans;letter-spacing: 0px;text-transform: none;text-decoration: none;}.hustle-ui.module_id_3 .hustle-success-content li:not([class*="forminator-"]):last-child {margin-bottom: 0;}</style><style type="text/css" id="hustle-module-1-0-styles" class="hustle-module-styles hustle-module-styles-1">.hustle-ui.module_id_1 .hustle-popup-content {max-width: 800px;} .hustle-ui.module_id_1  {padding-right: 10px;padding-left: 10px;}.hustle-ui.module_id_1  .hustle-popup-content .hustle-info,.hustle-ui.module_id_1  .hustle-popup-content .hustle-optin {padding-top: 10px;padding-bottom: 10px;}@media screen and (min-width: 783px) {.hustle-ui:not(.hustle-size--small).module_id_1  {padding-right: 10px;padding-left: 10px;}.hustle-ui:not(.hustle-size--small).module_id_1  .hustle-popup-content .hustle-info,.hustle-ui:not(.hustle-size--small).module_id_1  .hustle-popup-content .hustle-optin {padding-top: 10px;padding-bottom: 10px;}} .hustle-ui.module_id_1 .hustle-layout .hustle-layout-body {padding: 0px 0px 0px 0px;border-width: 0px 0px 0px 0px;border-style: solid;border-radius: 0px 0px 0px 0px;}@media screen and (min-width: 783px) {.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-layout .hustle-layout-body {padding: 0px 0px 0px 0px;border-width: 0px 0px 0px 0px;border-style: solid;border-radius: 0px 0px 0px 0px;}} .hustle-ui.module_id_1 .hustle-layout .hustle-layout-content {padding: 0px 0px 0px 0px;border-width: 0px 0px 0px 0px;border-style: solid;}@media screen and (min-width: 783px) {.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-layout .hustle-layout-content {padding: 0px 0px 0px 0px;border-width: 0px 0px 0px 0px;border-style: solid;}}  .hustle-ui.module_id_1 .hustle-layout .hustle-content {margin: 0px 0px 0px 0px;padding: 0 20px 0 20px;border-width: 0px 0px 0px 0px;border-style: solid;}.hustle-ui.module_id_1 .hustle-layout .hustle-content .hustle-content-wrap {padding: 20px 0 20px 0;}@media screen and (min-width: 783px) {.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-layout .hustle-content {margin: 0px 0px 0px 0px;padding: 0 20px 0 20px;border-width: 0px 0px 0px 0px;border-style: solid;}.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-layout .hustle-content .hustle-content-wrap {padding: 20px 0 20px 0;}} .hustle-ui.module_id_1 .hustle-layout .hustle-title {display: block;margin: 0px 0px 0px 0px;padding: 0px 0px 0px 0px;border-width: 0px 0px 0px 0px;border-style: solid;border-radius: 0px 0px 0px 0px;font: 700 20px/27px Open Sans;font-style: normal;letter-spacing: 0px;text-transform: none;text-decoration: none;text-align: left;}@media screen and (min-width: 783px) {.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-layout .hustle-title {margin: 0px 0px 0px 0px;padding: 0px 0px 0px 0px;border-width: 0px 0px 0px 0px;border-style: solid;border-radius: 0px 0px 0px 0px;font: 700 20px/27px Open Sans;font-style: normal;letter-spacing: 0px;text-transform: none;text-decoration: none;text-align: left;}} .hustle-ui.module_id_1 .hustle-layout .hustle-subtitle {display: block;margin: 10px 0px 0px 0px;padding: 0px 0px 0px 0px;border-width: 0px 0px 0px 0px;border-style: solid;border-radius: 0px 0px 0px 0px;font: 700 14px/18px Open Sans;font-style: normal;letter-spacing: 0px;text-transform: none;text-decoration: none;text-align: left;}@media screen and (min-width: 783px) {.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-layout .hustle-subtitle {margin: 10px 0px 0px 0px;padding: 0px 0px 0px 0px;border-width: 0px 0px 0px 0px;border-style: solid;border-radius: 0px 0px 0px 0px;box-shadow: 0px 0px 0px 0px rgba(0,0,0,0);-moz-box-shadow: 0px 0px 0px 0px rgba(0,0,0,0);-webkit-box-shadow: 0px 0px 0px 0px rgba(0,0,0,0);font: 700 14px/18px Open Sans;font-style: normal;letter-spacing: 0px;text-transform: none;text-decoration: none;text-align: left;}}.hustle-ui.module_id_1 .hustle-popup-mask {background-color: rgba(51,51,51,0.9);} .hustle-ui.module_id_1 .hustle-layout .hustle-layout-form {margin: 0px 0px 0px 0px;padding: 20px 20px 20px 20px;border-width: 0px 0px 0px 0px;border-style: solid;border-radius: 0px 0px 0px 0px;}@media screen and (min-width: 783px) {.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-layout .hustle-layout-form {margin: 0px 0px 0px 0px;padding: 20px 20px 20px 20px;border-width: 0px 0px 0px 0px;border-style: solid;border-radius: 0px 0px 0px 0px;}}.hustle-ui.module_id_1 .hustle-form .hustle-form-fields {display: block;}.hustle-ui.module_id_1 .hustle-form .hustle-form-fields .hustle-field {margin-bottom: 10px;}.hustle-ui.module_id_1 .hustle-form .hustle-form-fields .hustle-button {width: 100%;}@media screen and (min-width: 783px) {.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-form .hustle-form-fields {display: -webkit-box;display: -ms-flex;display: flex;-ms-flex-wrap: wrap;flex-wrap: wrap;-webkit-box-align: center;-ms-flex-align: center;align-items: center;margin-top: -5px;margin-bottom: -5px;}.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-form .hustle-form-fields .hustle-field {min-width: 100px;-webkit-box-flex: 1;-ms-flex: 1;flex: 1;margin-top: 5px;margin-right: 10px;margin-bottom: 5px;}.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-form .hustle-form-fields .hustle-button {width: auto;-webkit-box-flex: 0;-ms-flex: 0 0 auto;flex: 0 0 auto;margin-top: 5px;margin-bottom: 5px;}} .hustle-ui.module_id_1 .hustle-field .hustle-input {margin: 0;padding: 9px 10px 9px 10px;border-width: 0px 0px 0px 0px;border-style: solid;border-radius: 0px 0px 0px 0px;font: normal 13px/18px Open Sans;font-style: normal;letter-spacing: 0px;text-transform: none;text-align: left;}.hustle-ui.module_id_1 .hustle-field .hustle-input + .hustle-input-label {padding: 9px 10px 9px 10px;border-width: 0px 0px 0px 0px;border-style: solid;border-color: transparent;font: normal 13px/18px Open Sans;font-style: normal;letter-spacing: 0px;text-transform: none;text-align: left;}@media screen and (min-width: 783px) {.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-field .hustle-input {padding: 9px 10px 9px 10px;border-width: 0px 0px 0px 0px;border-style: solid;border-radius: 0px 0px 0px 0px;font: normal 13px/18px Open Sans;font-style: normal;letter-spacing: 0px;text-transform: none;text-align: left;}}@media screen and (min-width: 783px) {.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-field .hustle-input + .hustle-input-label {padding: 9px 10px 9px 10px;border-width: 0px 0px 0px 0px;font: normal 13px/18px Open Sans;font-style: normal;letter-spacing: 0px;text-transform: none;text-align: left;}} .hustle-ui.module_id_1 .hustle-select2 + .select2 {box-shadow: 0px 0px 0px 0px rgba(0,0,0,0);-moz-box-shadow: 0px 0px 0px 0px rgba(0,0,0,0);-webkit-box-shadow: 0px 0px 0px 0px rgba(0,0,0,0);}.hustle-ui.module_id_1 .hustle-select2 + .select2 .select2-selection--single {margin: 0;padding: 0 10px 0 10px;border-width: 0px 0px 0px 0px;border-style: solid;border-radius: 0px 0px 0px 0px;background-color: #FFFFFF;}.hustle-ui.module_id_1 .hustle-select2 + .select2 .select2-selection--single .select2-selection__rendered {padding: 9px 0 9px 0;font: normal 13px/18px Open Sans;font-style: normal;}.hustle-ui.module_id_1 .hustle-select2 + .select2 + .hustle-input-label {font: normal 13px/18px Open Sans;font-style: normal;letter-spacing: 0px;text-transform: none;text-align: left;}@media screen and (min-width: 783px) {.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-select2 + .select2 {box-shadow: 0px 0px 0px 0px rgba(0,0,0,0);-moz-box-shadow: 0px 0px 0px 0px rgba(0,0,0,0);-webkit-box-shadow: 0px 0px 0px 0px rgba(0,0,0,0);}.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-select2 + .select2 .select2-selection--single {padding: 0 10px 0 10px;border-width: 0px 0px 0px 0px;border-style: solid;border-radius: 0px 0px 0px 0px;}.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-select2 + .select2 .select2-selection--single .select2-selection__rendered {padding: 9px 0 9px 0;font: normal 13px/18px Open Sans;font-style: normal;letter-spacing: 0px;text-transform: none;text-align: left;}.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-select2 + .select2 + .hustle-input-label {font: normal 13px/18px Open Sans;font-style: normal;letter-spacing: 0px;text-transform: none;text-align: left;}} .hustle-ui.module_id_1 .hustle-form .hustle-radio span[aria-hidden] {border-width: 0px 0px 0px 0px;border-style: solid;}.hustle-ui.module_id_1 .hustle-form .hustle-radio span:not([aria-hidden]) {font: normal 12px/20px Open Sans;font-style: normal;letter-spacing: 0px;text-transform: none;text-decoration: none;text-align: left;}@media screen and (min-width: 783px) {.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-form .hustle-radio span[aria-hidden] {border-width: 0px 0px 0px 0px;border-style: solid;}.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-form .hustle-radio span:not([aria-hidden]) {font: normal 12px/20px Open Sans;font-style: normal;letter-spacing: 0px;text-transform: none;text-decoration: none;text-align: left;}} .hustle-ui.module_id_1 .hustle-form .hustle-checkbox:not(.hustle-gdpr) span[aria-hidden] {border-width: 0px 0px 0px 0px;border-style: solid;border-radius: 0px 0px 0px 0px;}.hustle-ui.module_id_1 .hustle-form .hustle-checkbox:not(.hustle-gdpr) span:not([aria-hidden]) {font: normal 12px/20px Open Sans;font-style: normal;letter-spacing: 0px;text-transform: none;text-decoration: none;text-align: left;}@media screen and (min-width: 783px) {.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-form .hustle-checkbox:not(.hustle-gdpr) span[aria-hidden] {border-width: 0px 0px 0px 0px;border-style: solid;border-radius: 0px 0px 0px 0px;}.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-form .hustle-checkbox:not(.hustle-gdpr) span:not([aria-hidden]) {font: normal 12px/20px Open Sans;font-style: normal;letter-spacing: 0px;text-transform: none;text-decoration: none;text-align: left;}} .hustle-ui.module_id_1 .hustle-form button.hustle-button-submit {padding: 2px 16px 2px 16px;border-width: 0px 0px 0px 0px;border-style: solid;border-radius: 0px 0px 0px 0px;font: bold 13px/32px Open Sans;font-style: normal;letter-spacing: 0.5px;text-transform: none;text-decoration: none;}@media screen and (min-width: 783px) {.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-form button.hustle-button-submit {padding: 2px 16px 2px 16px;border-width: 0px 0px 0px 0px;border-style: solid;border-radius: 0px 0px 0px 0px;box-shadow: 0px 0px 0px 0px rgba(0,0,0,0);-moz-box-shadow: 0px 0px 0px 0px rgba(0,0,0,0);-webkit-box-shadow: 0px 0px 0px 0px rgba(0,0,0,0);font: bold 13px/32px Open Sans;font-style: normal;letter-spacing: 0.5px;text-transform: none;text-decoration: none;}} .hustle-ui.module_id_1 .hustle-form .hustle-form-options {margin: 10px 0px 0px 0px;padding: 20px 20px 20px 20px;border-width: 0px 0px 0px 0px;border-style: solid;border-radius: 0px 0px 0px 0px;}@media screen and (min-width: 783px) {.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-form .hustle-form-options {margin: 10px 0px 0px 0px;padding: 20px 20px 20px 20px;border-width: 0px 0px 0px 0px;border-style: solid;border-radius: 0px 0px 0px 0px;box-shadow: 0px 0px 0px 0px rgba(0,0,0,0);-moz-box-shadow: 0px 0px 0px 0px rgba(0,0,0,0);-webkit-box-shadow: 0px 0px 0px 0px rgba(0,0,0,0);}} .hustle-ui.module_id_1 .hustle-form .hustle-form-options .hustle-group-title {display: block;margin: 0 0 20px;padding: 0;border: 0;font: bold 13px/22px Open Sans;font-style: normal;letter-spacing: 0px;text-transform: none;text-decoration: none;text-align: left;}@media screen and (min-width: 783px) {.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-form .hustle-form-options .hustle-group-title {font: bold 13px/22px Open Sans;font-style: normal;letter-spacing: 0px;text-transform: none;text-decoration: none;text-align: left;}} .hustle-ui.module_id_1 .hustle-layout-form .hustle-checkbox.hustle-gdpr {margin: 10px 0px 0px 0px;}.hustle-ui.module_id_1 .hustle-layout-form .hustle-checkbox.hustle-gdpr span[aria-hidden] {border-width: 0px 0px 0px 0px;border-style: solid;border-radius: 0px 0px 0px 0px;}.hustle-ui.module_id_1 .hustle-layout-form .hustle-checkbox.hustle-gdpr span:not([aria-hidden]) {font: normal 12px/1.7em Open Sans;font-style: normal;letter-spacing: 0px;text-transform: none;text-decoration: none;text-align: left;}@media screen and (min-width: 783px) {.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-layout-form .hustle-checkbox.hustle-gdpr {margin: 10px 0px 0px 0px;}.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-layout-form .hustle-checkbox.hustle-gdpr span[aria-hidden] {border-width: 0px 0px 0px 0px;border-style: solid;border-radius: 0px 0px 0px 0px;}.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-layout-form .hustle-checkbox.hustle-gdpr span:not([aria-hidden]) {font: normal 12px/1.7em Open Sans;font-style: normal;letter-spacing: 0px;text-transform: none;text-decoration: none;text-align: left;}} .hustle-ui.module_id_1 .hustle-layout .hustle-error-message {margin: 20px 0px 0px 0px;}.hustle-ui.module_id_1 .hustle-layout .hustle-error-message p {font: normal 12px/20px Open Sans;font-style: normal;letter-spacing: 0px;text-transform: none;text-decoration: none;text-align: left;}@media screen and (min-width: 783px) {.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-layout .hustle-error-message {margin: 20px 0px 0px 0px;}.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-layout .hustle-error-message p {font: normal 12px/20px Open Sans;font-style: normal;letter-spacing: 0px;text-transform: none;text-decoration: none;text-align: left;}} .hustle-ui.module_id_1 .hustle-success {padding: 40px 40px 40px 40px;border-width: 0px 0px 0px 0px;border-style: solid;border-radius: 0px 0px 0px 0px;}.hustle-ui.module_id_1 .hustle-success-content b,.hustle-ui.module_id_1 .hustle-success-content strong {font-weight: bold;}.hustle-ui.module_id_1 .hustle-success-content blockquote {margin-right: 0;margin-left: 0;}@media screen and (min-width: 783px) {.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-success {padding: 40px 40px 40px 40px;border-width: 0px 0px 0px 0px;border-style: solid;border-radius: 0px 0px 0px 0px;box-shadow: 0px 0px 0px 0px rgba(0,0,0,0);-moz-box-shadow: 0px 0px 0px 0px rgba(0,0,0,0);-webkit-box-shadow: 0px 0px 0px 0px rgba(0,0,0,0);}}.hustle-ui.module_id_1 .hustle-success-content {font-size: 14px;line-height: 1.45em;font-family: Open Sans;}@media screen and (min-width: 783px) {.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-success-content {font-size: 14px;line-height: 1.45em;}}.hustle-ui.module_id_1 .hustle-success-content p:not([class*="forminator-"]) {margin: 0 0 10px;font: normal 14px/1.45em Open Sans;letter-spacing: 0px;text-transform: none;text-decoration: none;}.hustle-ui.module_id_1 .hustle-success-content p:not([class*="forminator-"]):last-child {margin-bottom: 0;}@media screen and (min-width: 783px) {.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-success-content p:not([class*="forminator-"]) {margin-bottom: 20px;font: normal 14px/1.45em Open Sans;letter-spacing: 0px;text-transform: none;text-decoration: none;}.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-success-content p:not([class*="forminator-"]):last-child {margin-bottom: 0}}.hustle-ui.module_id_1 .hustle-success-content h1:not([class*="forminator-"]) {margin: 0 0 10px;font: 700 28px/1.4em Open Sans;letter-spacing: 0px;text-transform: none;text-decoration: none;}.hustle-ui.module_id_1 .hustle-success-content h1:not([class*="forminator-"]):last-child {margin-bottom: 0;}@media screen and (min-width: 783px) {.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-success-content h1:not([class*="forminator-"]) {margin-bottom: 20px;font: 700 28px/1.4em Open Sans;letter-spacing: 0px;text-transform: none;text-decoration: none;}.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-success-content h1:not([class*="forminator-"]):last-child {margin-bottom: 0}}.hustle-ui.module_id_1 .hustle-success-content h2:not([class*="forminator-"]) {margin: 0 0 10px;font: 700 22px/1.4em Open Sans;letter-spacing: 0px;text-transform: none;text-decoration: none;}.hustle-ui.module_id_1 .hustle-success-content h2:not([class*="forminator-"]):last-child {margin-bottom: 0;}@media screen and (min-width: 783px) {.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-success-content h2:not([class*="forminator-"]) {margin-bottom: 20px;font: 700 22px/1.4em Open Sans;letter-spacing: 0px;text-transform: none;text-decoration: none;}.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-success-content h2:not([class*="forminator-"]):last-child {margin-bottom: 0}}.hustle-ui.module_id_1 .hustle-success-content h3:not([class*="forminator-"]) {margin: 0 0 10px;font: 700 18px/1.4em Open Sans;letter-spacing: 0px;text-transform: none;text-decoration: none;}.hustle-ui.module_id_1 .hustle-success-content h3:not([class*="forminator-"]):last-child {margin-bottom: 0;}@media screen and (min-width: 783px) {.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-success-content h3:not([class*="forminator-"]) {margin-bottom: 20px;font: 700 18px/1.4em Open Sans;letter-spacing: 0px;text-transform: none;text-decoration: none;}.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-success-content h3:not([class*="forminator-"]):last-child {margin-bottom: 0}}.hustle-ui.module_id_1 .hustle-success-content h4:not([class*="forminator-"]) {margin: 0 0 10px;font: 700 16px/1.4em Open Sans;letter-spacing: 0px;text-transform: none;text-decoration: none;}.hustle-ui.module_id_1 .hustle-success-content h4:not([class*="forminator-"]):last-child {margin-bottom: 0;}@media screen and (min-width: 783px) {.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-success-content h4:not([class*="forminator-"]) {margin-bottom: 20px;font: 700 16px/1.4em Open Sans;letter-spacing: 0px;text-transform: none;text-decoration: none;}.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-success-content h4:not([class*="forminator-"]):last-child {margin-bottom: 0}}.hustle-ui.module_id_1 .hustle-success-content h5:not([class*="forminator-"]) {margin: 0 0 10px;font: 700 14px/1.4em Open Sans;letter-spacing: 0px;text-transform: none;text-decoration: none;}.hustle-ui.module_id_1 .hustle-success-content h5:not([class*="forminator-"]):last-child {margin-bottom: 0;}@media screen and (min-width: 783px) {.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-success-content h5:not([class*="forminator-"]) {margin-bottom: 20px;font: 700 14px/1.4em Open Sans;letter-spacing: 0px;text-transform: none;text-decoration: none;}.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-success-content h5:not([class*="forminator-"]):last-child {margin-bottom: 0}}.hustle-ui.module_id_1 .hustle-success-content h6:not([class*="forminator-"]) {margin: 0 0 10px;font: 700 12px/1.4em Open Sans;letter-spacing: 0px;text-transform: uppercase;text-decoration: none;}.hustle-ui.module_id_1 .hustle-success-content h6:not([class*="forminator-"]):last-child {margin-bottom: 0;}@media screen and (min-width: 783px) {.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-success-content h6:not([class*="forminator-"]) {margin-bottom: 20px;font: 700 12px/1.4em Open Sans;letter-spacing: 0px;text-transform: uppercase;text-decoration: none;}.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-success-content h6:not([class*="forminator-"]):last-child {margin-bottom: 0}}.hustle-ui.module_id_1 .hustle-success-content ol:not([class*="forminator-"]),.hustle-ui.module_id_1 .hustle-success-content ul:not([class*="forminator-"]) {margin: 0 0 10px;}.hustle-ui.module_id_1 .hustle-success-content ol:not([class*="forminator-"]):last-child,.hustle-ui.module_id_1 .hustle-success-content ul:not([class*="forminator-"]):last-child {margin-bottom: 0;}.hustle-ui.module_id_1 .hustle-success-content li:not([class*="forminator-"]) {margin: 0 0 5px;font: normal 14px/1.45em Open Sans;letter-spacing: 0px;text-transform: none;text-decoration: none;}.hustle-ui.module_id_1 .hustle-success-content li:not([class*="forminator-"]):last-child {margin-bottom: 0;}@media screen and (min-width: 783px) {.hustle-ui:not(.hustle-size--small).module_id_1 .hustle-success-content li:not([class*="forminator-"]) {font: normal 14px/1.45em Open Sans;letter-spacing: 0px;text-transform: none;text-decoration: none;}}@media screen and (min-width: 783px) {.hustle-ui.module_id_1 .hustle-success-content ol:not([class*="forminator-"]),.hustle-ui.module_id_1 .hustle-success-content ul:not([class*="forminator-"]) {margin: 0 0 20px;}.hustle-ui.module_id_1 .hustle-success-content ol:not([class*="forminator-"]):last-child,.hustle-ui.module_id_1 .hustle-success-content ul:not([class*="forminator-"]):last-child {margin-bottom: 0;}}</style>
+</body>
+</html>
