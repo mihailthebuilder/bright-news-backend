@@ -3,3 +3,4 @@ venv
 .env
 conda-env
 .ipynb_checkpoints
+cardiffnlp
