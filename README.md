@@ -22,6 +22,7 @@ Django backend for a web app that analyses the positivity of a news site. Links 
     - [Relative scoring](#relative-scoring)
   - [DevOps](#devops)
     - [Setting up the environment](#setting-up-the-environment)
+    - [Running locally](#running-locally)
   - [License](#license)
 
 ## Back-end architecture
@@ -96,6 +97,13 @@ You might encounter issues with installing `psycopg2` on Linux (Ubuntu). Run the
 ```bash
 sudo apt-get install python3-dev libpq-dev build-essential
 export PATH=/usr/lib/postgresql/X.Y/bin/:$PATH
+```
+
+### Running locally
+
+```bash
+export DJANGO_ENV=development
+python manage.py runserver
 ```
 
 ## License
