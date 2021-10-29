@@ -35,7 +35,11 @@ SECRET_KEY = os.environ.get("SECRET_KEY")
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = _is_local
 
-ALLOWED_HOSTS = ["*"]
+ALLOWED_HOSTS = (
+    ["https://mihailthebuilder.github.io/bright-news-web-frontend/"]
+    if not _is_local
+    else ["http://localhost:3000/bright-news-web-frontend"]
+)
 
 # Application definition
 
