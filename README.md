@@ -21,8 +21,8 @@ Django backend for a web app that analyses the positivity of a news site. Links 
     - [Absolute scoring](#absolute-scoring)
     - [Relative scoring](#relative-scoring)
   - [DevOps](#devops)
-    - [Setting up the environment](#setting-up-the-environment)
-    - [Running locally](#running-locally)
+    - [Local](#local)
+    - [Heroku deployment](#heroku-deployment)
   - [License](#license)
 
 ## Back-end architecture
@@ -84,7 +84,7 @@ This scaled dataset is what's sent back to the front-end for the wonderful resul
 
 ## DevOps
 
-### Setting up the environment
+### Local
 
 ```bash
 python3 -m venv venv
@@ -99,11 +99,26 @@ sudo apt-get install python3-dev libpq-dev build-essential
 export PATH=/usr/lib/postgresql/X.Y/bin/:$PATH
 ```
 
-### Running locally
+Create a `.env` file that stores the following...
+
+```env
+DJANGO_ENV=development
+SECRET_KEY=create_your_key
+```
+
+You can now run the app with the command...
 
 ```bash
-export DJANGO_ENV=development
 python manage.py runserver
+```
+
+### Heroku deployment
+
+Add the following environment variables...
+
+```env
+DB=your_postgres_connection_credentials_in_json
+SECRET_KEY=create_your_key
 ```
 
 ## License
