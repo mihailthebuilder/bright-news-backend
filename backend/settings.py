@@ -17,6 +17,7 @@ import django_heroku
 import dj_database_url
 import os
 from dotenv import load_dotenv
+import json
 
 load_dotenv()
 
@@ -90,12 +91,12 @@ WSGI_APPLICATION = "backend.wsgi.application"
 # Database
 # https://docs.djangoproject.com/en/3.1/ref/settings/#databases
 
-DATABASES = {}
-
 # database depends on whether env in heroku or local
-DATABASES["default"] = (
-    os.environ.get("DB") if not _is_local else dj_database_url.config(conn_max_age=600)
-)
+DATABASES = {
+    "default": json.loads(os.environ.get("DB"))
+    if not _is_local
+    else dj_database_url.config(conn_max_age=600)
+}
 
 # Password validation
 # https://docs.djangoproject.com/en/3.1/ref/settings/#auth-password-validators
