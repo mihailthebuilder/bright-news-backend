@@ -16,6 +16,9 @@ from pathlib import Path
 import django_heroku
 import dj_database_url
 import os
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # check if running on local
 _is_local = os.environ.get("DJANGO_ENV", default="production") == "development"
