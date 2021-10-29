@@ -38,7 +38,7 @@ DEBUG = _is_local
 ALLOWED_HOSTS = (
     ["https://mihailthebuilder.github.io/bright-news-web-frontend/"]
     if not _is_local
-    else ["http://localhost:3000/bright-news-web-frontend"]
+    else ["http://localhost:3000/bright-news-web-frontend", "127.0.0.1"]
 )
 
 # Application definition
@@ -137,6 +137,5 @@ STATIC_URL = "/static/"
 
 CORS_ORIGIN_ALLOW_ALL = True
 
-# heroku deployment - uncomment
-# local deployment - comment
-django_heroku.settings(locals())
+if not _is_local:
+    django_heroku.settings(locals())
