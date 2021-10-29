@@ -34,7 +34,6 @@ DEBUG = _is_local
 
 ALLOWED_HOSTS = ["*"]
 
-
 # Application definition
 
 INSTALLED_APPS = [
