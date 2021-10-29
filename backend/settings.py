@@ -90,16 +90,7 @@ DATABASES = {}
 
 # database depends on whether env in heroku or local
 DATABASES["default"] = (
-    {
-        "ENGINE": "django.db.backends.postgresql",
-        "NAME": "sentiment",
-        "USER": "postgres",
-        "PASSWORD": "whatapassword",
-        "HOST": "localhost",
-        "PORT": "5432",
-    }
-    if not _is_local
-    else dj_database_url.config(conn_max_age=600)
+    os.environ.get("DB") if not _is_local else dj_database_url.config(conn_max_age=600)
 )
 
 # Password validation
