@@ -85,9 +85,6 @@ WSGI_APPLICATION = "backend.wsgi.application"
 
 DATABASES = {}
 
-# check if .env file exists
-dotenv_file_exists = os.path.isfile(os.path.join(BASE_DIR, ".env"))
-
 # database depends on whether env in heroku or local
 DATABASES["default"] = (
     {
@@ -98,7 +95,7 @@ DATABASES["default"] = (
         "HOST": "localhost",
         "PORT": "5432",
     }
-    if dotenv_file_exists
+    if not _is_local
     else dj_database_url.config(conn_max_age=600)
 )
 
