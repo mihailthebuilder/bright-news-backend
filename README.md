@@ -12,25 +12,25 @@ Django backend for a web app that analyses the positivity of a news site. Links 
 - [Bright News (backend)](#bright-news-backend)
   - [Intro](#intro)
   - [Table of contents](#table-of-contents)
-    - [Back-end architecture](#back-end-architecture)
-    - [Views](#views)
-    - [Models](#models)
-    - [Scoring process](#scoring-process)
-      - [Fetching the raw data](#fetching-the-raw-data)
-      - [Data cleansing](#data-cleansing)
+  - [Back-end architecture](#back-end-architecture)
+  - [Views](#views)
+  - [Models](#models)
+  - [Scoring process](#scoring-process)
+    - [Fetching the raw data](#fetching-the-raw-data)
+    - [Data cleansing](#data-cleansing)
     - [Absolute scoring](#absolute-scoring)
     - [Relative scoring](#relative-scoring)
   - [License](#license)
 
-### Back-end architecture
+## Back-end architecture
 
 The back-end is a Django RESTful API hosted on Heroku's free tier. It's completely separate from the front-end and the codebase sits in this repo.
 
-### Views
+## Views
 
 There's only 1 view in this Django project and it corresponds to the API endpoint that connects to the front-end. It receives the URL of the news site and returns the analysis data. I leverage [Django REST framework](https://www.django-rest-framework.org/) to set up this view using the generic `APIView` class.
 
-### Models
+## Models
 
 2 models that database all the site submissions together with the data generated from my analysis:
 
@@ -40,13 +40,13 @@ There's only 1 view in this Django project and it corresponds to the API endpoin
 This enables me to see all the data in my Django admin panel and discover gems 😄
 ![models](demo/models.png)
 
-### Scoring process
+## Scoring process
 
-#### Fetching the raw data
+### Fetching the raw data
 
 The scoring process starts by going to the URL that has been sent to the API. Upon successful entry, it uses [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) to fetch all the text and splits it into a `list` according to their HTML elements.
 
-#### Data cleansing
+### Data cleansing
 
 I remove any text piece that meets any of the following criteria:
 
