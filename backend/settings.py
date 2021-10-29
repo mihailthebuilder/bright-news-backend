@@ -92,11 +92,7 @@ WSGI_APPLICATION = "backend.wsgi.application"
 # https://docs.djangoproject.com/en/3.1/ref/settings/#databases
 
 # database depends on whether env in heroku or local
-DATABASES = {
-    "default": json.loads(os.environ.get("DB"))
-    if not _is_local
-    else dj_database_url.config(conn_max_age=600)
-}
+DATABASES = {"default": json.loads(os.environ.get("DB"))}
 
 # Password validation
 # https://docs.djangoproject.com/en/3.1/ref/settings/#auth-password-validators
