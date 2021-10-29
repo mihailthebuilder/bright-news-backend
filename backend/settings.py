@@ -17,9 +17,11 @@ import django_heroku
 import dj_database_url
 import os
 
+# check if running on local
+_is_local = os.environ.get("DJANGO_ENV", default="production") == "development"
+
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
-
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/
@@ -28,7 +30,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = "^-q2d26w)l0^c3k=m^05gg0$0%bk&97xux5xfaq4iyc2vk_70-"
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = _is_local
 
 ALLOWED_HOSTS = ["*"]
 
