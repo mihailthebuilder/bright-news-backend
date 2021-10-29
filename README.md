@@ -20,6 +20,8 @@ Django backend for a web app that analyses the positivity of a news site. Links 
     - [Data cleansing](#data-cleansing)
     - [Absolute scoring](#absolute-scoring)
     - [Relative scoring](#relative-scoring)
+  - [DevOps](#devops)
+    - [Setting up the environment](#setting-up-the-environment)
   - [License](#license)
 
 ## Back-end architecture
@@ -78,6 +80,23 @@ I retrieve all the absolute scores that are stored in the `WebsiteModel` and add
 With [scikit learn](https://scikit-learn.org/), I scale all the scores so that they're between 0 and 1. 0 represents the least positive score in our `pandas` dataframe, while 1 represents the most positive score.
 
 This scaled dataset is what's sent back to the front-end for the wonderful results page. The end 🥳
+
+## DevOps
+
+### Setting up the environment
+
+```bash
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+```
+
+You might encounter issues with installing `psycopg2` on Linux (Ubuntu). Run the below as per the [installation guide](https://www.psycopg.org/docs/install.html#build-prerequisites) and [this](https://stackoverflow.com/questions/26053982/setup-script-exited-with-error-command-x86-64-linux-gnu-gcc-failed-with-exit#comment95142671_33874511):
+
+```bash
+sudo apt-get install python3-dev libpq-dev build-essential
+export PATH=/usr/lib/postgresql/X.Y/bin/:$PATH
+```
 
 ## License
 
