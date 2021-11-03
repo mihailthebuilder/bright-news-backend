@@ -21,7 +21,7 @@ Django backend for a web app that analyses the positivity of a news site. Links 
     - [Absolute scoring](#absolute-scoring)
     - [Relative scoring](#relative-scoring)
   - [DevOps](#devops)
-    - [Local](#local)
+    - [Running the app locally](#running-the-app-locally)
     - [Heroku deployment](#heroku-deployment)
   - [License](#license)
 
@@ -84,7 +84,9 @@ This scaled dataset is what's sent back to the front-end for the wonderful resul
 
 ## DevOps
 
-### Local
+### Running the app locally
+
+Install the Python packages
 
 ```bash
 python3 -m venv venv
@@ -99,27 +101,37 @@ sudo apt-get install python3-dev libpq-dev build-essential
 export PATH=/usr/lib/postgresql/X.Y/bin/:$PATH
 ```
 
+Create a PostgreSQL db.
+
 Create a `.env` file that stores the following...
 
 ```env
 DJANGO_ENV=development
 SECRET_KEY=create_your_key
+DB={"ENGINE": "django.db.backends.postgresql", "NAME": "your_db_name", "USER": "your_db_username", "PASSWORD": "your_db_password!", "HOST": "localhost", "PORT": "5432"}
 ```
 
-You can now run the app with the command...
+Set up your database tables
+
+```bash
+python manage.py migrate
+```
+
+Run the app
 
 ```bash
 python manage.py runserver
 ```
 
+Test the app
+
+```bash
+python manage.py test
+```
+
 ### Heroku deployment
 
-Add the following environment variables...
-
-```env
-DB=your_postgres_connection_credentials_in_json
-SECRET_KEY=create_your_key
-```
+Add the environment variables as per the [local setup](#running-the-app-locally).
 
 ## License
 
