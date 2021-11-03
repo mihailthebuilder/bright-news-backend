@@ -2,7 +2,7 @@
 
 ## Intro
 
-Django backend for a web app that analyses the positivity of a news site. Links to...
+Django REST API backend for a web app that analyses the positivity of a news site. Links to...
 
 - [live site](https://mihailthebuilder.github.io/bright-news-web-frontend/)
 - [frontend repo](https://github.com/mihailthebuilder/bright-news-web-frontend)
@@ -22,6 +22,7 @@ Django backend for a web app that analyses the positivity of a news site. Links 
     - [Relative scoring](#relative-scoring)
   - [DevOps](#devops)
     - [Running the app locally](#running-the-app-locally)
+  - [GitHub actions](#github-actions)
     - [Heroku deployment](#heroku-deployment)
   - [License](#license)
 
@@ -128,6 +129,10 @@ Test the app
 ```bash
 python manage.py test
 ```
+
+## GitHub actions
+
+I set up a workflow that creates a PostgreSQL service and uses it for a simple test of the single API endpoint that it has.
 
 ### Heroku deployment
 
