@@ -1,6 +1,6 @@
 from django.test import TestCase
 
-# Create your tests here.
+# Complete test for the main app.
 class TestMain(TestCase):
     def test_main_page(self):
         response = self.client.post(path="/api/calculate", data={"url": "ft.com"})
