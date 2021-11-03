@@ -16,7 +16,7 @@ jobs:
         env:
           POSTGRES_USER: postgres
           POSTGRES_PASSWORD: postgres
-          POSTGRES_DB: db_test
+          POSTGRES_DB: postgres
 
         ports:
           - 5432/tcp
@@ -38,7 +38,6 @@ jobs:
           pip install -r requirements.txt
       - run: python manage.py test
         env: 
-          DB: '{"ENGINE": "django.db.backends.postgresql", "NAME": "db_test", "USER": "postgres", "PASSWORD": "postgres", "HOST": "localhost", "PORT": "5432"}'
+          DB: '{"ENGINE": "django.db.backends.postgresql", "NAME": "postgres", "USER": "postgres", "PASSWORD": "postgres", "HOST": "localhost", "PORT": "5432"}'
           DJANGO_ENV: development
           SECRET_KEY: secret_key
-
