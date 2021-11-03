@@ -37,3 +37,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
       - run: python manage.py test
+        env: 
+          DB: '{"ENGINE": "django.db.backends.postgresql", "NAME": "db_test", "USER": "postgres", "PASSWORD": "postgres", "HOST": "localhost", "PORT": "5432"}'
+          DJANGO_ENV: development
+
