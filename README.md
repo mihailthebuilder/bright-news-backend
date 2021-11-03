@@ -22,7 +22,7 @@ Django REST API backend for a web app that analyses the positivity of a news sit
     - [Relative scoring](#relative-scoring)
   - [DevOps](#devops)
     - [Running the app locally](#running-the-app-locally)
-  - [GitHub actions](#github-actions)
+    - [GitHub actions](#github-actions)
     - [Heroku deployment](#heroku-deployment)
   - [License](#license)
 
@@ -130,7 +130,7 @@ Test the app
 python manage.py test
 ```
 
-## GitHub actions
+### GitHub actions
 
 I set up a workflow that creates a PostgreSQL service and uses it for a simple test of the single API endpoint that it has.
 
