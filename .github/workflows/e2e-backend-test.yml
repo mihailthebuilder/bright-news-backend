@@ -39,7 +39,7 @@ jobs:
       - run: |
           python manage.py migrate
       - run: python manage.py test
-        env: 
+        env:
           DB: '{"ENGINE": "django.db.backends.postgresql", "NAME": "postgres", "USER": "postgres", "PASSWORD": "postgres", "HOST": "localhost", "PORT": "5432"}'
           DJANGO_ENV: development
           SECRET_KEY: secret_key
