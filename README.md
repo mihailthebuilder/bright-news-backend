@@ -136,6 +136,12 @@ I set up a workflow that creates a PostgreSQL service and uses it for a simple t
 
 ### Heroku deployment
 
+```bash
+heroku login
+git push heroku main
+heroku ps:scale web=1
+```
+
 Add the environment variables as per the [local setup](#running-the-app-locally).
 
 ## License
