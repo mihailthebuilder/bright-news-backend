@@ -16,22 +16,31 @@ from pathlib import Path
 import django_heroku
 import dj_database_url
 import os
+from dotenv import load_dotenv
+import json
+
+load_dotenv()
+
+# check if running on local
+_is_local = os.environ.get("DJANGO_ENV", default="production") == "development"
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
-
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = "^-q2d26w)l0^c3k=m^05gg0$0%bk&97xux5xfaq4iyc2vk_70-"
+SECRET_KEY = os.environ.get("SECRET_KEY")
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = _is_local
 
-ALLOWED_HOSTS = ["*"]
-
+ALLOWED_HOSTS = (
+    ["https://mihailthebuilder.github.io/bright-news-web-frontend/"]
+    if not _is_local
+    else ["http://localhost:3000/bright-news-web-frontend", "127.0.0.1"]
+)
 
 # Application definition
 
@@ -82,24 +91,8 @@ WSGI_APPLICATION = "backend.wsgi.application"
 # Database
 # https://docs.djangoproject.com/en/3.1/ref/settings/#databases
 
-DATABASES = {}
-
-# check if .env file exists
-dotenv_file_exists = os.path.isfile(os.path.join(BASE_DIR, ".env"))
-
 # database depends on whether env in heroku or local
-DATABASES["default"] = (
-    {
-        "ENGINE": "django.db.backends.postgresql",
-        "NAME": "sentiment",
-        "USER": "postgres",
-        "PASSWORD": "whatapassword",
-        "HOST": "localhost",
-        "PORT": "5432",
-    }
-    if dotenv_file_exists
-    else dj_database_url.config(conn_max_age=600)
-)
+DATABASES = {"default": json.loads(os.environ.get("DB"))}
 
 # Password validation
 # https://docs.djangoproject.com/en/3.1/ref/settings/#auth-password-validators
@@ -141,6 +134,5 @@ STATIC_URL = "/static/"
 
 CORS_ORIGIN_ALLOW_ALL = True
 
-# heroku deployment - uncomment
-# local deployment - comment
-django_heroku.settings(locals())
+if not _is_local:
+    django_heroku.settings(locals())
