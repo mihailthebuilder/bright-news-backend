@@ -1,7 +1,6 @@
 from .sentiment import sentiment_analyze
 from .standardize import sen_stand
 from .models import WebsiteModel, FailedWebsiteModel
-
 from rest_framework import views
 from rest_framework.response import Response
 
