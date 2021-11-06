@@ -39,7 +39,7 @@ DEBUG = _is_local
 ALLOWED_HOSTS = (
     ["https://mihailthebuilder.github.io/bright-news-web-frontend/"]
     if not _is_local
-    else ["http://localhost:3000/bright-news-web-frontend", "127.0.0.1"]
+    else ["localhost"]
 )
 
 # Application definition
