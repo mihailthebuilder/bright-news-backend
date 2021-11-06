@@ -17,6 +17,6 @@ class TestMain(TestCase):
 
     def test_bad_request(self):
         response = self.client.post(path=API_PATH, data={"url": "ssre"})
-        self.assertEqual(response.status_code, 400)
+        self.assertEqual(response.status_code, 500)
         # TODO: Check text of the error message.
         # self.assertEqual(response.data["error"], "Bad request")
