@@ -15,7 +15,8 @@ class TestMain(TestCase):
         self.assertEqual(type(first_scored_url["score"]), float)
         self.assertEqual(type(first_scored_url["url"]), str)
 
-    # def test_bad_request(self):
-    #     response = self.client.post(path=API_PATH, data={"url": "ssre"})
-    #     self.assertEqual(response.status_code, 400)
-    #     self.assertEqual(response.data["error"], "Bad request")
+    def test_bad_request(self):
+        response = self.client.post(path=API_PATH, data={"url": "ssre"})
+        self.assertEqual(response.status_code, 400)
+        # TODO: Check text of the error message.
+        # self.assertEqual(response.data["error"], "Bad request")
