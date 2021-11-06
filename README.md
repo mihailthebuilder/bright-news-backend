@@ -138,7 +138,7 @@ I set up a workflow that creates a PostgreSQL service and uses it for a simple t
 
 ```bash
 heroku login
-git push heroku main
+git push heroku master
 heroku ps:scale web=1
 ```
 
