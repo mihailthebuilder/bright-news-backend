@@ -22,7 +22,7 @@ class CalculateView(views.APIView):
 
             context["error"] = message
 
-            return Response(status=400, data=context)
+            return Response(status=500, data=context)
 
         website = WebsiteModel(
             url=results["url_analyzed"],
