@@ -132,7 +132,11 @@ python manage.py test
 
 ### GitHub actions
 
-I set up a workflow that creates a PostgreSQL service and uses it for a simple test of the single API endpoint that it has.
+I set up a workflow that...:
+
+1. Creates a PostgreSQL database service
+2. Tests the single API endpoint with a good request
+3. Tests the API with a bad request
 
 ### Heroku deployment
 
