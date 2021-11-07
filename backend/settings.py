@@ -126,6 +126,8 @@ USE_L10N = True
 
 USE_TZ = True
 
+# To fix warning as per this https://stackoverflow.com/a/66971813/7874516
+DEFAULT_AUTO_FIELD = "django.db.models.AutoField"
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/3.1/howto/static-files/
